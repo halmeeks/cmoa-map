@@ -1,2 +1,2 @@
 # coma-map
-Cleaned Data from Carenegie Mellon Focused Contemporary Art 
+Original data from Carnegie Mellon's inventory of holdings. This is a cleaned dataset focused on contemporary artists.
