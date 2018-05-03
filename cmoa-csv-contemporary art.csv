@@ -1,280 +1,696 @@
-department,classification,cited_name,nationality,gender,number of pieces
-Contemporary Art,collages,"Colarusso, Jim",America,Male,1
+department,classification,cited_name,country,gender,number of pieces
+Contemporary Art,prints,Guerrilla Girls,America,Female,89
+Contemporary Art,prints,"Frink, Elisabeth",Britain,Female,31
+Contemporary Art,prints,Matsubara Naoko,Japan,Female,27
+Contemporary Art,prints,"Walker, Kara",America,Female,26
+Contemporary Art,drawings and watercolors,"Clayton, Lenka",Britain,Female,16
+Contemporary Art,collages,"Whiteread, Rachel",Britain,Female,14
+Contemporary Art,prints,"Quastler, Gertrude",America,Female,10
+Contemporary Art,prints,"Brunskill, Anna",Britain,Female,9
+Contemporary Art,prints,"Fedden, Mary",Britain,Female,9
+Contemporary Art,prints,"Skiöld, Birgit",Sweden,Female,9
+Contemporary Art,paintings,"Mehretu, Julie",America,Female,8
+Contemporary Art,prints,"Escobar, Marisol",France,Female,7
+Contemporary Art,paintings,"Hartigan, Grace",America,Female,6
+Contemporary Art,prints,"Kelly, Marie Tuiccillo",America,Female,6
+Contemporary Art,prints,"Mitchell, Joan",America,Female,6
+Contemporary Art,drawings and watercolors,"Dumas, Marlene",South Africa,Female,5
+Contemporary Art,mixed media,"Haskell, Jane",America,Female,5
+Contemporary Art,paintings,"Wilkes, Cathy",Ireland,Female,5
+Contemporary Art,prints,"Lijn, Liliane",America,Female,5
+Contemporary Art,paintings,"Contis, Helen",America,Female,4
+Contemporary Art,prints,"Bacon, Peggy",America,Female,4
+Contemporary Art,prints,"Bartlett, Jennifer",America,Female,4
+Contemporary Art,prints,"Celmins, Vija",America,Female,4
+Contemporary Art,prints,"Krasner, Lee",America,Female,4
+Contemporary Art,drawings and watercolors,"Lehman, Bernice",America,Female,3
+Contemporary Art,drawings and watercolors,"Mir, Aleksandra",Sweden,Female,3
+Contemporary Art,drawings and watercolors,"Wilke, Hannah",America,Female,3
+Contemporary Art,prints,Inagaki Akemi,Japan,Female,3
+Contemporary Art,prints,"Maier, Joann",America,Female,3
+Contemporary Art,prints,"Murray, Elizabeth",America,Female,3
+Contemporary Art,collages,"Kalstone, Elsie",America,Female,2
+Contemporary Art,collages,"Morris, Elaine",America,Female,2
+Contemporary Art,collages,"Rockburne, Dorothea",America,Female,2
+Contemporary Art,drawings and watercolors,"Delaunay, Sonia",France,Female,2
+Contemporary Art,drawings and watercolors,"Donnelly, Trisha",America,Female,2
+Contemporary Art,drawings and watercolors,"Ferrara, Jackie",America,Female,2
+Contemporary Art,drawings and watercolors,"Parsons, Betty",America,Female,2
+Contemporary Art,drawings and watercolors,"Samuels, Diane",America,Female,2
+Contemporary Art,drawings and watercolors,"Stockholder, Jessica",America,Female,2
+Contemporary Art,drawings and watercolors,"Towbin, Janet",America,Female,2
+Contemporary Art,mixed media,"Stavitsky, Ellen",America,Female,2
+Contemporary Art,paintings,"Baer, Jo",America,Female,2
+Contemporary Art,paintings,"Berman, Rebecca R.",America,Female,2
+Contemporary Art,paintings,"Milhazes, Beatriz",Brazil,Female,2
+Contemporary Art,paintings,"Speyer, Nora",America,Female,2
+Contemporary Art,paintings,"Sterne, Hedda",America,Female,2
+Contemporary Art,paintings,"von Wiegand, Charmion",America,Female,2
+Contemporary Art,prints,"Albers, Anni",America,Female,2
+Contemporary Art,prints,"Bauermeister, Mary",Germany,Female,2
+Contemporary Art,prints,"Frankenthaler, Helen",America,Female,2
+Contemporary Art,prints,"Iwami, Reika",Japan,Female,2
+Contemporary Art,prints,Minami Keiko,Japan,Female,2
+Contemporary Art,prints,"Moore, Keiko Hiratsuka",America,Female,2
+Contemporary Art,prints,"Neel, Alice",America,Female,2
+Contemporary Art,prints,"Owens, Laura",America,Female,2
+Contemporary Art,prints,"Peyton, Elizabeth",America,Female,2
+Contemporary Art,prints,"Porter, Liliana",Argentine,Female,2
+Contemporary Art,prints,"Rothenberg, Susan",America,Female,2
+Contemporary Art,prints,Shima Tamami,Japan,Female,2
+Contemporary Art,prints,"Smith, Kiki",America,Female,2
+Contemporary Art,prints,Yoshida Chizuko,Japan,Female,2
+Contemporary Art,prints,Yoshida Fujio,Japan,Female,2
+Contemporary Art,prints,"Zeid, Fahrelnissa",Turkey,Female,2
 Contemporary Art,collages,"Evan, Grete H.",America,Female,1
+Contemporary Art,collages,"Giegerich, Jill",America,Female,1
+Contemporary Art,collages,"Golomb, Anne T.",America,Female,1
+Contemporary Art,collages,"Katzen, Lila",America,Female,1
+Contemporary Art,collages,"Marin, Laura",America,Female,1
+Contemporary Art,collages,"Shiras, Myrna",America,Female,1
+Contemporary Art,collages,"Zelt, Martha",America,Female,1
+Contemporary Art,drawings and watercolors,"Anthony, Carol",America,Female,1
+Contemporary Art,drawings and watercolors,"Beck, Kim",America,Female,1
+Contemporary Art,drawings and watercolors,"Bernstein, Judith",America,Female,1
+Contemporary Art,drawings and watercolors,"Blumenfeld, Rochelle Reznik",America,Female,1
+Contemporary Art,drawings and watercolors,"Borda, Juliette",America,Female,1
+Contemporary Art,drawings and watercolors,"Dalla Piccola Wood, Teresa",America,Female,1
+Contemporary Art,drawings and watercolors,"Derryberry, Virginia",America,Female,1
+Contemporary Art,drawings and watercolors,"Garver, Wilhelmina J.",Netherlands,Female,1
+Contemporary Art,drawings and watercolors,"Hall, Susan",America,Female,1
+Contemporary Art,drawings and watercolors,"Hesse, Eva",America,Female,1
+Contemporary Art,drawings and watercolors,"Jacquette, Yvonne H.",America,Female,1
+Contemporary Art,drawings and watercolors,"Karlsen, Anne M.",America,Female,1
+Contemporary Art,drawings and watercolors,"Kaufman, Lois",America,Female,1
+Contemporary Art,drawings and watercolors,"Levine, Ruth Eleanor",America,Female,1
+Contemporary Art,drawings and watercolors,"Milroy, Lisa",Canada,Female,1
+Contemporary Art,drawings and watercolors,"Miss, Mary",America,Female,1
+Contemporary Art,drawings and watercolors,"Montgomery, Kathleen",America,Female,1
+Contemporary Art,drawings and watercolors,"O?owska, Paulina",Poland,Female,1
+Contemporary Art,drawings and watercolors,"Penalba, Alicia",France,Female,1
+Contemporary Art,drawings and watercolors,"Seborovski, Carole",America,Female,1
+Contemporary Art,drawings and watercolors,"Shechter, Laura",America,Female,1
+Contemporary Art,drawings and watercolors,"Shoumatoff, Elizabeth",America,Female,1
+Contemporary Art,drawings and watercolors,"Voelker, Elizabeth",America,Female,1
+Contemporary Art,drawings and watercolors,"Webster, Meg",America,Female,1
+Contemporary Art,drawings and watercolors,"Wood, Beatrice",America,Female,1
+Contemporary Art,drawings and watercolors,"Zalopany, Michele",America,Female,1
+Contemporary Art,mixed media,"Davey, Moyra",Canada,Female,1
+Contemporary Art,mixed media,"Fuller, Sue",America,Female,1
+Contemporary Art,mixed media,"Heinrich, Adrienne",America,Female,1
+Contemporary Art,paintings,"Abrams, Ruth D.",America,Female,1
+Contemporary Art,paintings,"Abts, Tomma",Germany,Female,1
+Contemporary Art,paintings,"Allison, Elizabeth",America,Female,1
+Contemporary Art,paintings,"Benning, Sadie",America,Female,1
+Contemporary Art,paintings,"Blaine, Nell",America,Female,1
+Contemporary Art,paintings,"Caporael, Suzanne",America,Female,1
+Contemporary Art,paintings,"Cooley, Cynthia F.",America,Female,1
+Contemporary Art,paintings,"Dryer, Moira J.",America,Female,1
+Contemporary Art,paintings,"Eisenman, Nicole",America,Female,1
+Contemporary Art,paintings,"Eklind, Marjorie",America,Female,1
+Contemporary Art,paintings,"Fishman, Louise",America,Female,1
+Contemporary Art,paintings,"Frelinghuysen, Suzy",America,Female,1
+Contemporary Art,paintings,"Geiss-Osby, Larissa",America,Female,1
+Contemporary Art,paintings,"Getz, Ilse",Germany,Female,1
+Contemporary Art,paintings,"Gillen, Ann N.",America,Female,1
+Contemporary Art,paintings,"Greene, Gertrude Glass",America,Female,1
+Contemporary Art,paintings,"Half, Gertrude T.",America,Female,1
+Contemporary Art,paintings,"Hornung, Preben",Denmark,Female,1
+Contemporary Art,paintings,"Humphries, Jacqueline",America,Female,1
+Contemporary Art,paintings,"Karn, Gloria S.",America,Female,1
+Contemporary Art,paintings,"Larsen, Mernet",America,Female,1
+Contemporary Art,paintings,"Laurencin, Marie",France,Female,1
+Contemporary Art,paintings,"Lee, Catherine",America,Female,1
+Contemporary Art,paintings,"Leger, Jeanne",America,Female,1
+Contemporary Art,paintings,"Martin, Agnes",Canada,Female,1
+Contemporary Art,paintings,"Paul, Josephine",America,Female,1
+Contemporary Art,paintings,"Piper, Jane",America,Female,1
+Contemporary Art,paintings,"Porter, Katherine",America,Female,1
+Contemporary Art,paintings,"Remington, Deborah W.",America,Female,1
+Contemporary Art,paintings,"Riley, Bridget",Britain,Female,1
+Contemporary Art,paintings,"Root, Ruth",America,Female,1
+Contemporary Art,paintings,"Teichman, Sabina",America,Female,1
+Contemporary Art,paintings,"Venard, Claude",France,Female,1
+Contemporary Art,paintings,"Witek, Joan",America,Female,1
+Contemporary Art,prints,"Accardi, Carla",Italy,Female,1
+Contemporary Art,prints,"Birnbaum, Dara",America,Female,1
+Contemporary Art,prints,"Blumenschein, Helen G.",America,Female,1
+Contemporary Art,prints,"Bogue-Overbay, Paula",America,Female,1
+Contemporary Art,prints,"Browning, Colleen",America,Female,1
+Contemporary Art,prints,"Bryen, Camille",France,Female,1
+Contemporary Art,prints,"Catlett, Elizabeth",America,Female,1
+Contemporary Art,prints,Chryssa,America,Female,1
+Contemporary Art,prints,"Conner, Angela",Britain,Female,1
+Contemporary Art,prints,"Crile, Susan",America,Female,1
+Contemporary Art,prints,"Day, Wörden",America,Female,1
+Contemporary Art,prints,"Dickson, Jane L.",America,Female,1
+Contemporary Art,prints,"Falkenstein, Claire",America,Female,1
+Contemporary Art,prints,"Flack, Audrey",America,Female,1
+Contemporary Art,prints,"Frank, Mary",America,Female,1
+Contemporary Art,prints,"Genzken, Isa",Germany,Female,1
+Contemporary Art,prints,"Gerardia, Helen",America,Female,1
+Contemporary Art,prints,"Gruber, Aaronel deRoy",America,Female,1
+Contemporary Art,prints,"Haass, Terry",Czech Republic,Female,1
+Contemporary Art,prints,"Humbert, Suzanne",France,Female,1
+Contemporary Art,prints,"Inman, Pauline W.",America,Female,1
+Contemporary Art,prints,"Jaray, Tess",Britain,Female,1
+Contemporary Art,prints,"Johnson, Lois M.",America,Female,1
+Contemporary Art,prints,Katatani Mika,Japan,Female,1
+Contemporary Art,prints,Kawachi Meiko,Japan,Female,1
+Contemporary Art,prints,"Klevan, Carla",America,Female,1
+Contemporary Art,prints,"Knowles, Alison",America,Female,1
+Contemporary Art,prints,"Kubota, Jean",America,Female,1
+Contemporary Art,prints,"Lazzell, Blanche",America,Female,1
+Contemporary Art,prints,"Messager, Annette",France,Female,1
+Contemporary Art,prints,"Nevelson, Louise",America,Female,1
+Contemporary Art,prints,"Pape, Lygia",Brazil,Female,1
+Contemporary Art,prints,"Park, Gloria",undetermined,Female,1
+Contemporary Art,prints,"Rothschild, Eva",Ireland,Female,1
+Contemporary Art,prints,"Salcedo, Doris",Colombia,Female,1
+Contemporary Art,prints,"Shepler, Martha F.",America,Female,1
+Contemporary Art,prints,Shinoda Toko,Japan,Female,1
+Contemporary Art,prints," von Hellermann, Sophie",Germany,Female,1
+Contemporary Art,prints,"Sutton, Sharon E.",America,Female,1
+Contemporary Art,prints,"Teichman, Mary",America,Female,1
+Contemporary Art,prints,"Whiteley, Elizabeth",America,Female,1
+Contemporary Art,paintings,"Rosenberg, Samuel",America,Male,385
+Contemporary Art,prints,"Alechinsky, Pierre",Belgium,Male,99
+Contemporary Art,prints,"Lackovic-Croata, Ivan",Croatia,Male,99
+Contemporary Art,prints,"Spruance, Benton M.",America,Male,71
+Contemporary Art,prints,"House, Gordon",Britain,Male,51
+Contemporary Art,prints,"King, Ronald",Britain,Male,41
+Contemporary Art,paintings,"Förg, Günther",Germany,Male,37
+Contemporary Art,prints,Saitô Kiyoshi,Japan,Male,33
+Contemporary Art,prints,"LeWitt, Sol",America,Male,32
+Contemporary Art,paintings,"Jorn, Asger",Denmark,Male,30
+Contemporary Art,drawings and watercolors,"Koerner, Henry",America,Male,26
+Contemporary Art,prints,Sekino Jun-ichirô,Japan,Male,26
+Contemporary Art,paintings,"Nolan, Sidney",Australian,Male,25
+Contemporary Art,paintings,"Katz, Alex",America,Male,24
+Contemporary Art,drawings and watercolors,"Pedersen, Carl-Henning",Denmark,Male,23
+Contemporary Art,prints,"Heron, Patrick",Britain,Male,23
+Contemporary Art,prints,"Kitaj, R. B.",America,Male,23
+Contemporary Art,prints,"Christie, John",Britain,Male,22
+Contemporary Art,prints,"Wool, Christopher",America,Male,22
+Contemporary Art,drawings and watercolors,"Heerbrant, Henri",Belgium,Male,21
+Contemporary Art,drawings and watercolors,"Judd, Donald",America,Male,21
+Contemporary Art,prints,"Kokoschka, Oskar",Austria,Male,21
+Contemporary Art,prints,"Lucioni, Luigi",America,Male,21
+Contemporary Art,prints,"Trevelyan, Julian",Britain,Male,21
+Contemporary Art,prints,"Frost, Terry",Britain,Male,19
+Contemporary Art,prints,"Kopman, Benjamin",America,Male,19
+Contemporary Art,prints,"Phillips, Tom",Britain,Male,18
+Contemporary Art,drawings and watercolors,"Warhol, Andy",America,Male,17
+Contemporary Art,prints,"Chillida, Eduardo",Spain,Male,17
+Contemporary Art,paintings,"Appel, Karel",Netherlands,Male,16
+Contemporary Art,prints,Corneille,Belgium,Male,16
+Contemporary Art,prints,Kitaoka Fumio,Japan,Male,16
+Contemporary Art,prints,"Monro, Nicholas",Britain,Male,16
+Contemporary Art,prints,"Ovenden, Graham",Britain,Male,16
+Contemporary Art,prints,"Turnbull, William",Britain,Male,16
+Contemporary Art,drawings and watercolors,"Bendiner, Alfred",America,Male,15
+Contemporary Art,paintings,"Saunders, Raymond Jennings",America,Male,15
+Contemporary Art,prints,Hiratsuka Un'ichi,Japan,Male,15
+Contemporary Art,prints,"Hoyland, John",Britain,Male,15
+Contemporary Art,prints,"Rivers, Larry",America,Male,15
+Contemporary Art,paintings,"Scott, William",Britain,Male,14
+Contemporary Art,prints,"Chagall, Marc",Russia,Male,14
+Contemporary Art,prints,"Cohen, Bernard",Britain,Male,14
+Contemporary Art,prints,"Marca-Relli, Conrad",America,Male,14
+Contemporary Art,prints,"Wotruba, Fritz",Austria,Male,14
+Contemporary Art,prints,"Hughes, Patrick",Britain,Male,13
+Contemporary Art,drawings and watercolors,"Ackermann, Franz",Germany,Male,12
+Contemporary Art,drawings and watercolors,"Chadwick, Lynn R.",Britain,Male,12
+Contemporary Art,mixed media,"Stilinovi?, Mladen",Serbia,Male,12
+Contemporary Art,paintings,"Piper, John",Britain,Male,12
+Contemporary Art,prints,"Butler, Reg",Britain,Male,12
+Contemporary Art,prints,"Höller, Carsten",Belgium,Male,12
+Contemporary Art,prints,"Marden, Brice",America,Male,12
+Contemporary Art,prints,Munakata Shikô,Japan,Male,12
+Contemporary Art,prints,"Rosenquist, James",America,Male,12
+Contemporary Art,drawings and watercolors,"Nieuwenhuys, Constant",Netherlands,Male,11
+Contemporary Art,drawings and watercolors,"YounGermany, Jack",America,Male,11
+Contemporary Art,paintings,"Pearlstein, Philip",America,Male,11
+Contemporary Art,prints,"Celice, Pierre",France,Male,11
+Contemporary Art,prints,"Colescott, Warrington W.",America,Male,11
+Contemporary Art,prints,"Flavin, Dan",America,Male,11
+Contemporary Art,prints,"Hayter, Stanley W.",Britain,Male,11
+Contemporary Art,prints,"Thomkins, André",Switzerland,Male,11
+Contemporary Art,drawings and watercolors,"Bochner, Mel",America,Male,10
+Contemporary Art,drawings and watercolors,"Smith, Richard",Britain,Male,10
+Contemporary Art,prints,"D'Arcangelo, Allan",America,Male,10
+Contemporary Art,prints,"Kabakov, Ilya",Russia,Male,10
+Contemporary Art,prints,"Motherwell, Robert",America,Male,10
+Contemporary Art,drawings and watercolors,"Smith, David",America,Male,9
+Contemporary Art,prints,Hagiwara Hideo,Japan,Male,9
+Contemporary Art,prints,Hashimoto Okiie,Japan,Male,9
+Contemporary Art,prints,"Jones, Allen",Britain,Male,9
+Contemporary Art,prints,Maekawa Senpan,Japan,Male,9
+Contemporary Art,prints,"Nama, George",America,Male,9
+Contemporary Art,prints,"Rothenstein, Michael",Britain,Male,9
+Contemporary Art,prints,"Tilson, Joe",Britain,Male,9
+Contemporary Art,prints,"Ziemann, Richard C.",America,Male,9
+Contemporary Art,drawings and watercolors,"Haerizadeh, Rokni",Iran,Male,8
+Contemporary Art,paintings,"Indiaa, Robert",America,Male,8
+Contemporary Art,paintings,"Manessier, Alfred",France,Male,8
+Contemporary Art,paintings,"Qualters, Robert",America,Male,8
+Contemporary Art,prints,"Bukovnik, Gary A.",America,Male,8
+Contemporary Art,prints,"Dubuffet, Jean",France,Male,8
+Contemporary Art,prints,"Giacometti, Alberto",Switzerland,Male,8
+Contemporary Art,prints,"Hayden, Henri",Poland,Male,8
+Contemporary Art,prints,"Ross, Charles",America,Male,8
+Contemporary Art,prints,"Tuttle, Richard",America,Male,8
+Contemporary Art,prints,"Tyson, Ian",Britain,Male,8
+Contemporary Art,prints,"Wilmarth, Christopher",America,Male,8
+Contemporary Art,prints,Yoshida Tôshi,Japan,Male,8
+Contemporary Art,drawings and watercolors,"Miró, Joan",Spain,Male,7
+Contemporary Art,paintings,"Dash, Robert W.",America,Male,7
+Contemporary Art,paintings,"Twiggs, Russell G.",America,Male,7
+Contemporary Art,paintings,"Walker, Kelley",America,Male,7
+Contemporary Art,prints,"Caulfield, Patrick",Britain,Male,7
+Contemporary Art,prints,"Gottlieb, Adolph",America,Male,7
+Contemporary Art,prints,Inagaki Tomoo,Japan,Male,7
+Contemporary Art,prints,"Leibowitz, Leonard",America,Male,7
+Contemporary Art,prints,"MacLean, William",America,Male,7
+Contemporary Art,prints,"Picasso, Pablo",Spain,Male,7
+Contemporary Art,prints,"Rauschenberg, Robert",America,Male,7
+Contemporary Art,prints,"Tàpies , Antoni",Spain,Male,7
+Contemporary Art,prints,Tajima Hiroyuki,Japan,Male,7
+Contemporary Art,drawings and watercolors,"Diebenkorn, Richard",America,Male,6
+Contemporary Art,paintings,"Kinstler, Everett R.",America,Male,6
+Contemporary Art,paintings,"Morrill, Michael",America,Male,6
+Contemporary Art,paintings,"Scharf, William",America,Male,6
+Contemporary Art,prints,"Blake, Peter",Britain,Male,6
+Contemporary Art,prints,"Bock, John",Germany,Male,6
+Contemporary Art,prints,Christo,America,Male,6
+Contemporary Art,prints,"Denny, Robyn",Britain,Male,6
+Contemporary Art,prints,Hatsuyama Shigeru,Japan,Male,6
+Contemporary Art,prints,"McPherson, Craig",America,Male,6
+Contemporary Art,prints,"Pasmore, Victor",Britain,Male,6
+Contemporary Art,prints,"Sasajima, Kihei",Japan,Male,6
+Contemporary Art,prints,Yamaguchi Susumu,Japan,Male,6
+Contemporary Art,prints,Yoshida Hodaka,Japan,Male,6
+Contemporary Art,drawings and watercolors,"Cadmus, Paul",America,Male,5
+Contemporary Art,drawings and watercolors,"Johnson, Lester F.",America,Male,5
+Contemporary Art,drawings and watercolors,Lucebert,Netherlands,Male,5
+Contemporary Art,drawings and watercolors,"Piene, Otto",Germany,Male,5
+Contemporary Art,drawings and watercolors,"Ruscha, Edward",America,Male,5
+Contemporary Art,paintings,"Hollegha, Wolfgang",Austria,Male,5
+Contemporary Art,paintings,"Roth, Dieter",Switzerland,Male,5
+Contemporary Art,paintings,"Stella, Frank",America,Male,5
+Contemporary Art,paintings,Sugaï Kumi,Japan,Male,5
+Contemporary Art,paintings,"Tobey, Mark",America,Male,5
+Contemporary Art,prints,"Arp, Jean",France,Male,5
+Contemporary Art,prints,"Auerbach, Frank H.",Britain,Male,5
+Contemporary Art,prints,"Baldessari, John",America,Male,5
+Contemporary Art,prints,"Braque, Georges",France,Male,5
+Contemporary Art,prints,"Fischl, Eric",America,Male,5
+Contemporary Art,prints,Fukushima Ichirô,Japan,Male,5
+Contemporary Art,prints,"Giorgini, Aldo",Italy,Male,5
+Contemporary Art,prints,Ikeda Shûzô,Japan,Male,5
+Contemporary Art,prints,Kawanishi Yûzaburô,Japan,Male,5
+Contemporary Art,prints,Kobashi Yasuhide,Japan,Male,5
+Contemporary Art,prints,"Krushenick, Nicholas",America,Male,5
+Contemporary Art,prints,"Martin, Kenneth",Britain,Male,5
+Contemporary Art,prints,"Nutt, Jim",America,Male,5
+Contemporary Art,prints,Onchi Kôshirô,Japan,Male,5
+Contemporary Art,prints,Ono Tadashige,Japan,Male,5
+Contemporary Art,prints,Uchima Ansei,America,Male,5
+Contemporary Art,prints,Yamaguchi Gen,Japan,Male,5
+Contemporary Art,drawings and watercolors,"Brooks, James",America,Male,4
+Contemporary Art,drawings and watercolors,"Cooper, Douglas",America,Male,4
+Contemporary Art,drawings and watercolors,"Dewasne, Jean",France,Male,4
+Contemporary Art,drawings and watercolors,"Francis, Sam",America,Male,4
+Contemporary Art,drawings and watercolors,"Kelley, Mike",America,Male,4
+Contemporary Art,drawings and watercolors,"Kolk, Douglas",America,Male,4
+Contemporary Art,drawings and watercolors,"Maryan, Maryan S.",America,Male,4
+Contemporary Art,drawings and watercolors,"Rosati, James",America,Male,4
+Contemporary Art,drawings and watercolors,"Vasarely, Victor",France,Male,4
+Contemporary Art,drawings and watercolors,"Watts, Christopher J.",Britain,Male,4
+Contemporary Art,paintings,"Dine, Jim",America,Male,4
+Contemporary Art,paintings,"Doig, Peter",Scotland,Male,4
+Contemporary Art,paintings,"Kelly, Ellsworth",America,Male,4
+Contemporary Art,paintings,"Maxim, David",America,Male,4
+Contemporary Art,paintings,"Pendleton, Adam",America,Male,4
+Contemporary Art,paintings,"Thompson, Ralston",America,Male,4
+Contemporary Art,paintings,"Ting, Walasse",China,Male,4
+Contemporary Art,prints,"Artschwager, Richard",America,Male,4
+Contemporary Art,prints,"Bannard, Walter D.",America,Male,4
+Contemporary Art,prints,"Bhavsar, Natvar P.",India,Male,4
+Contemporary Art,prints,"Blampied, Edmund",Britain,Male,4
+Contemporary Art,prints,"Borofsky, Jonathan",America,Male,4
+Contemporary Art,prints,"Close, Chuck",America,Male,4
+Contemporary Art,prints,"Friedlaender, Johnny",Germany,Male,4
+Contemporary Art,prints,Fukita Fumiaki,Japan,Male,4
+Contemporary Art,prints,"Golub, Leon A.",America,Male,4
+Contemporary Art,prints,Hamaguchi Yozo,Japan,Male,4
+Contemporary Art,prints,"Hansen, Edward",America,Male,4
+Contemporary Art,prints,Kawanishi Hide,Japan,Male,4
+Contemporary Art,prints,Kawano Kaoru,Japan,Male,4
+Contemporary Art,prints,"Kent, Rockwell",America,Male,4
+Contemporary Art,prints,"Knowles, Justin",Britain,Male,4
+Contemporary Art,prints,Nakayama Tadashi,Japan,Male,4
+Contemporary Art,prints,"Oldenburg, Claes",America,Male,4
+Contemporary Art,prints,"Phillips, Peter",Britain,Male,4
+Contemporary Art,prints,"Ramos, Mel",America,Male,4
+Contemporary Art,prints,"D'Haese, Reinhoud",Belgium,Male,4
+Contemporary Art,prints,Shinagawa Takumi,Japan,Male,4
+Contemporary Art,prints,"Steinberg, Saul",America,Male,4
+Contemporary Art,collages,"Massey, Jack",America,Male,3
+Contemporary Art,collages,"Paolozzi, Eduardo L.",Scotland,Male,3
+Contemporary Art,drawings and watercolors,"De Kooning, Willem",America,Male,3
+Contemporary Art,drawings and watercolors,"Hios, Theo",America,Male,3
+Contemporary Art,drawings and watercolors,"Kienbusch, William A.",America,Male,3
+Contemporary Art,drawings and watercolors,"Lepper, Robert",America,Male,3
+Contemporary Art,drawings and watercolors,"Marsh, Reginald",America,Male,3
+Contemporary Art,drawings and watercolors,"McLaughlin, John",America,Male,3
+Contemporary Art,drawings and watercolors,"Michaux, Henri",France,Male,3
+Contemporary Art,drawings and watercolors,"Nicholson, Ben",Britain,Male,3
+Contemporary Art,drawings and watercolors,"Saura, Antonio",Spain,Male,3
+Contemporary Art,drawings and watercolors,"Schumacher, Emil",Germany,Male,3
+Contemporary Art,mixed media,"Strau, Josef",Austria,Male,3
+Contemporary Art,paintings,"Baier, Jean",Switzerland,Male,3
+Contemporary Art,paintings,"Davie, Alan",Britain,Male,3
+Contemporary Art,paintings,"Greene, Balcomb",America,Male,3
+Contemporary Art,paintings,"Guston, Philip",America,Male,3
+Contemporary Art,paintings,"Held, Al",America,Male,3
+Contemporary Art,paintings,"Hockney, David",Britain,Male,3
+Contemporary Art,paintings,"Kiefer, Anselm",Germany,Male,3
+Contemporary Art,paintings,"Matta, Roberto",Chile,Male,3
+Contemporary Art,paintings,On Kawara,Japan,Male,3
+Contemporary Art,paintings,"Paschke, Ed",America,Male,3
+Contemporary Art,paintings,"Seidel, Jochen",America,Male,3
+Contemporary Art,paintings,"Stein, Ronald J.",America,Male,3
+Contemporary Art,paintings,"Thek, Paul",America,Male,3
+Contemporary Art,paintings,"Thiebaud, Wayne",America,Male,3
+Contemporary Art,paintings,"Villon, Jacques",France,Male,3
+Contemporary Art,paintings,"Wou-Ki, Zao",France,Male,3
+Contemporary Art,prints,"Adam, Henri G.",France,Male,3
+Contemporary Art,prints,"Baumgarten, Lothar",Germany,Male,3
+Contemporary Art,prints,"Bearden, Romare",America,Male,3
+Contemporary Art,prints,"Calder, Alexander",America,Male,3
+Contemporary Art,prints,"Campigli, Massimo",Italy,Male,3
+Contemporary Art,prints,"Carsman, Jon",America,Male,3
+Contemporary Art,prints,"Frasconi, Antonio",America,Male,3
+Contemporary Art,prints,"Gober, Robert",America,Male,3
+Contemporary Art,prints,"Green, Alan",Britain,Male,3
+Contemporary Art,prints,"Grooms, Red",America,Male,3
+Contemporary Art,prints,"Hagman, Jack",America,Male,3
+Contemporary Art,prints,Hoshi Jôichi,Japan,Male,3
+Contemporary Art,prints,Izumi Shigeru,Japan,Male,3
+Contemporary Art,prints,"Jenkins, Paul",America,Male,3
+Contemporary Art,prints,Kanamori Yoshio,Japan,Male,3
+Contemporary Art,prints,"Karhu, Clifton",America,Male,3
+Contemporary Art,prints,Kasamatsu Shirô,Japan,Male,3
+Contemporary Art,prints,"Léger, Fernand",France,Male,3
+Contemporary Art,prints,"Lichtenstein, Roy",America,Male,3
+Contemporary Art,prints,"Lipton, Seymour",America,Male,3
+Contemporary Art,prints,Maeda Masao,Japan,Male,3
+Contemporary Art,prints,Maki Haku,Japan,Male,3
+Contemporary Art,prints,Mori Yoshitoshi,Japan,Male,3
+Contemporary Art,prints,Mutô Rokurô,Japan,Male,3
+Contemporary Art,prints,Nagai Kiyoshi,Japan,Male,3
+Contemporary Art,prints,Nakao Yoshitaka,Japan,Male,3
+Contemporary Art,prints,"Saul, Peter",America,Male,3
+Contemporary Art,prints,"Scialoja, Toti",Italy,Male,3
+Contemporary Art,prints,Shimozawa Kihachirô,Japan,Male,3
+Contemporary Art,prints,"Singier, Gustave",France,Male,3
+Contemporary Art,prints,"Stadler, Albert",America,Male,3
+Contemporary Art,prints,Takagi Shirô,Japan,Male,3
+Contemporary Art,prints,Takei Takeo,Japan,Male,3
+Contemporary Art,prints,Tanaka Ryôhei,Japan,Male,3
+Contemporary Art,prints,Tokuriki Tomikichirô,Japan,Male,3
+Contemporary Art,prints,"Torlakson, James D.",America,Male,3
+Contemporary Art,prints,"Tucker, William",Britain,Male,3
+Contemporary Art,prints,"Ubac, Raoul",Belgium,Male,3
+Contemporary Art,prints,Watanabe Sadao,Japan,Male,3
+Contemporary Art,collages,"Lardera, Berto",France,Male,2
+Contemporary Art,collages,"Loewe, Michael",America,Male,2
+Contemporary Art,collages,"Paluzzi, Rinaldo",America,Male,2
+Contemporary Art,collages,"Shaw, Charles G.",America,Male,2
+Contemporary Art,drawings and watercolors,Anselmo,Italy,Male,2
+Contemporary Art,drawings and watercolors,"Antes, Horst",Germany,Male,2
+Contemporary Art,drawings and watercolors,"Barker, Walter W.",America,Male,2
+Contemporary Art,drawings and watercolors,"Bleckner, Ross",America,Male,2
+Contemporary Art,drawings and watercolors,"Bowden, Robert L.",America,Male,2
+Contemporary Art,drawings and watercolors,"Brands, Eugène ",Netherlands,Male,2
+Contemporary Art,drawings and watercolors,"Burri, Alberto",Italy,Male,2
+Contemporary Art,drawings and watercolors,"Byars, James L.",America,Male,2
+Contemporary Art,drawings and watercolors,"Crumb, Robert",America,Male,2
+Contemporary Art,drawings and watercolors,Dado,Montenegro,Male,2
+Contemporary Art,drawings and watercolors,"Dombek, George",America,Male,2
+Contemporary Art,drawings and watercolors,"Dotremont, Christian",Belgium,Male,2
+Contemporary Art,drawings and watercolors,"Goto, Joseph",America,Male,2
+Contemporary Art,drawings and watercolors,"Green, Robert B.",America,Male,2
+Contemporary Art,drawings and watercolors,"Halley, Peter",America,Male,2
+Contemporary Art,drawings and watercolors,"Hayes, David",America,Male,2
+Contemporary Art,drawings and watercolors,"Hiland, Joseph D.",America,Male,2
+Contemporary Art,drawings and watercolors,"Hofmann, Otto",Germany,Male,2
+Contemporary Art,drawings and watercolors,Inoue Yuichi,Japan,Male,2
+Contemporary Art,drawings and watercolors,"Jensen, Bill",America,Male,2
+Contemporary Art,drawings and watercolors,"Kline, Franz",America,Male,2
+Contemporary Art,drawings and watercolors,"Kupferman, Moshe",Israel,Male,2
+Contemporary Art,drawings and watercolors,Dr. Lakra,Mexico,Male,2
+Contemporary Art,drawings and watercolors,"Lanyon, Peter",Britain,Male,2
+Contemporary Art,drawings and watercolors,"Mathieu, Georges",France,Male,2
+Contemporary Art,drawings and watercolors,"Murakami, Tomoharu",Japan,Male,2
+Contemporary Art,drawings and watercolors,"Pehr, Hallsten",America,Male,2
+Contemporary Art,drawings and watercolors,"Pettibon, Raymond",America,Male,2
+Contemporary Art,drawings and watercolors,"Portland, Jack",America,Male,2
+Contemporary Art,drawings and watercolors,"Quaytman, Harvey",America,Male,2
+Contemporary Art,drawings and watercolors,"Richter, Gerhard",Germany,Male,2
+Contemporary Art,drawings and watercolors,"Roseman, Stanley",America,Male,2
+Contemporary Art,drawings and watercolors,"Schirm, David",America,Male,2
+Contemporary Art,drawings and watercolors,"Shahn, Ben",America,Male,2
+Contemporary Art,drawings and watercolors,"Shapiro, Joel",America,Male,2
+Contemporary Art,drawings and watercolors,"Tinguely, Jean",Switzerland,Male,2
+Contemporary Art,drawings and watercolors,"Wekua, Andro",Georgia,Male,2
+Contemporary Art,drawings and watercolors,"Winberg, John Y.",America,Male,2
+Contemporary Art,drawings and watercolors,Wols,France,Male,2
+Contemporary Art,drawings and watercolors,"Yunkers, Adja",America,Male,2
+Contemporary Art,drawings and watercolors,"Zapkus, Kes",America,Male,2
+Contemporary Art,mixed media,"Burgess, Lowry",America,Male,2
+Contemporary Art,paintings,"Anuszkiewicz, Richard J.",America,Male,2
+Contemporary Art,paintings,"Arakawa, Shusaku",Japan,Male,2
+Contemporary Art,paintings,"Ardon, Mordecai",Israel,Male,2
+Contemporary Art,paintings,"Baj, Enrico",Italy,Male,2
+Contemporary Art,paintings,"Baselitz, Georg",Germany,Male,2
+Contemporary Art,paintings,"Bazaine, Jean René",France,Male,2
+Contemporary Art,paintings,"Beauchamp, Robert",America,Male,2
+Contemporary Art,paintings,"Bissier, Julius",Germany,Male,2
+Contemporary Art,paintings,"Bosman, Richard",America,Male,2
+Contemporary Art,paintings,"Canogar, Rafael G.",Spain,Male,2
+Contemporary Art,paintings,"Crozier, William",Ireland,Male,2
+Contemporary Art,paintings,"De Bernardin, Anthony",America,Male,2
+Contemporary Art,paintings,"Edlich, Stephen",America,Male,2
+Contemporary Art,paintings,"Elespe, Jeronimo",Spain,Male,2
+Contemporary Art,paintings,"Fangor, Wojciech",Poland,Male,2
+Contemporary Art,paintings,"Federle, Helmut",Switzerland,Male,2
+Contemporary Art,paintings,"Fromboluti, Sideo",America,Male,2
+Contemporary Art,paintings,"Godard, Gabriel",France,Male,2
+Contemporary Art,paintings,"Greene, Stephen",America,Male,2
+Contemporary Art,paintings,"Hafftka, Michael",America,Male,2
+Contemporary Art,paintings,"Humphrey, David",America,Male,2
+Contemporary Art,paintings,"Irwin, Gwyther",Britain,Male,2
+Contemporary Art,paintings,Kazuki Yasuo,Japan,Male,2
+Contemporary Art,paintings,"Kushner, Robert",America,Male,2
+Contemporary Art,paintings,"Kwiatek, Greg",America,Male,2
+Contemporary Art,paintings,"Lacasse, Joseph",Belgium,Male,2
+Contemporary Art,paintings,"Lahner, Emile",Hungary,Male,2
+Contemporary Art,paintings,"Lucas, Christopher",America,Male,2
+Contemporary Art,paintings,"Magritte, René",Belgium,Male,2
+Contemporary Art,paintings,"Mangold, Robert",America,Male,2
+Contemporary Art,paintings,"Marini, Marino",Italy,Male,2
+Contemporary Art,paintings,"Mendelson, Marc",Belgium,Male,2
+Contemporary Art,paintings,"Noland, Kenneth",America,Male,2
+Contemporary Art,paintings,"Palazuelo, Pablo",Spain,Male,2
+Contemporary Art,paintings,"Parcell, Malcolm",America,Male,2
+Contemporary Art,paintings,"Pirandello, Fausto",Italy,Male,2
+Contemporary Art,paintings,"Platschek, Hans",Germany,Male,2
+Contemporary Art,paintings,"Polson, Steven",America,Male,2
+Contemporary Art,paintings,"Rauch, Neo",Germany,Male,2
+Contemporary Art,paintings,"Reinhardt, Ad",America,Male,2
+Contemporary Art,paintings,"Rowlands, Tom",America,Male,2
+Contemporary Art,paintings,"Seliger, Charles",America,Male,2
+Contemporary Art,paintings,"Soulages, Pierre",France,Male,2
+Contemporary Art,paintings,Stanslig,undetermined,Male,2
+Contemporary Art,paintings,"Taylor, Henry",America,Male,2
+Contemporary Art,paintings,"Velde, Bram van",Netherlands,Male,2
+Contemporary Art,paintings,"Welliver, Neil",America,Male,2
+Contemporary Art,paintings,"Willis, Thornton",America,Male,2
+Contemporary Art,paintings,"Winter, Fritz",Germany,Male,2
+Contemporary Art,paintings,"Wyckaert, Maurice",Belgium,Male,2
+Contemporary Art,paintings,"Zucker, Joe",America,Male,2
+Contemporary Art,prints,Amano Kunihiro,Japan,Male,2
+Contemporary Art,prints,"Annesley, David",Britain,Male,2
+Contemporary Art,prints,"Avery, Milton",America,Male,2
+Contemporary Art,prints,"Bachardy, Don",America,Male,2
+Contemporary Art,prints,"Beckley, Jon",America,Male,2
+Contemporary Art,prints,"Bissière, Roger",France,Male,2
+Contemporary Art,prints,"Buffet, Bernard",France,Male,2
+Contemporary Art,prints,"Bumbeck, David",America,Male,2
+Contemporary Art,prints,"Castagno, John",America,Male,2
+Contemporary Art,prints,"Chamberlain, John",America,Male,2
+Contemporary Art,prints,"Chapin, James",America,Male,2
+Contemporary Art,prints,"Clemente, Francesco",Italy,Male,2
+Contemporary Art,prints,"Cottingham, Robert",America,Male,2
+Contemporary Art,prints,"Damer, Jack",America,Male,2
+Contemporary Art,prints,"Davis, Stuart",America,Male,2
+Contemporary Art,prints,"Ernst, Jimmy",America,Male,2
+Contemporary Art,prints,"Ernst, Max",Germany,Male,2
+Contemporary Art,prints,"Fischer, Hans E.",Switzerland,Male,2
+Contemporary Art,prints,"Friedman, Yona",France,Male,2
+Contemporary Art,prints,"Groth, Jan",Norway,Male,2
+Contemporary Art,prints,"Guitart, Francesc",Spain,Male,2
+Contemporary Art,prints,"Hamilton, Richard",Britain,Male,2
+Contemporary Art,prints,"Hartung, Hans",France,Male,2
+Contemporary Art,prints,"Helion, Jean",France,Male,2
+Contemporary Art,prints,"Herman, Josef",Poland,Male,2
+Contemporary Art,prints,"Heyboer, Anton",Netherlands,Male,2
+Contemporary Art,prints,"Hilton, Roger",Britain,Male,2
+Contemporary Art,prints,"Hirsch, Joseph",America,Male,2
+Contemporary Art,prints,"Hirst, Damien",Britain,Male,2
+Contemporary Art,prints,Ide Gakusui,Japan,Male,2
+Contemporary Art,prints,"Johns, Jasper",America,Male,2
+Contemporary Art,prints,"Kahn, Max",America,Male,2
+Contemporary Art,prints,Kawada Kan,Japan,Male,2
+Contemporary Art,prints,Kawakami Sumio,Japan,Male,2
+Contemporary Art,prints,"Lam, Wifredo",Cuba,Male,2
+Contemporary Art,prints,"Landau, Jacob",America,Male,2
+Contemporary Art,prints,"Laurens, Henri",France,Male,2
+Contemporary Art,prints,"Leslie, Alfred",America,Male,2
+Contemporary Art,prints,"Levee, John",America,Male,2
+Contemporary Art,prints,"Libby, William C.",America,Male,2
+Contemporary Art,prints,"Limbach, Russell T.",America,Male,2
+Contemporary Art,prints,Matsumoto Akira,Japan,Male,2
+Contemporary Art,prints,"Mortensen, Gordon",America,Male,2
+Contemporary Art,prints,Nagase Yoshio,Japan,Male,2
+Contemporary Art,prints,"Nason, Thomas W.",America,Male,2
+Contemporary Art,prints,"Paik, Nam June",America,Male,2
+Contemporary Art,prints,"Poliakoff, Serge",France,Male,2
+Contemporary Art,prints,"Polke, Sigmar",Germany,Male,2
+Contemporary Art,prints,"Robbin, Anthony S.",America,Male,2
+Contemporary Art,prints,"Ryman, Robert",America,Male,2
+Contemporary Art,prints,Sakamoto Isamu,Japan,Male,2
+Contemporary Art,prints,"Salley, David J.",America,Male,2
+Contemporary Art,prints,"Segal, George",America,Male,2
+Contemporary Art,prints,"Steg, James L.",America,Male,2
+Contemporary Art,prints,Tagawa Ken,Japan,Male,2
+Contemporary Art,prints,Takahashi Rikio,Japan,Male,2
+Contemporary Art,prints,"Tiravanija, Rirkrit",Thailand,Male,2
+Contemporary Art,prints,"Wujcik, Theo",America,Male,2
+Contemporary Art,collages,"Colarusso, Jim",America,Male,1
 Contemporary Art,collages,"Fleischmann, Adolf",Germany,Male,1
 Contemporary Art,collages,"Gentilcore, Roland",America,Male,1
-Contemporary Art,collages,"Giegerich, Jill",America,Female,1
 Contemporary Art,collages,"Goldstein, Daniel J.",America,Male,1
-Contemporary Art,collages,"Golomb, Anne T.",America,Female,1
-Contemporary Art,collages,"Kalstone, Elsie",America,Female,2
-Contemporary Art,collages,"Katzen, Lila",America,Female,1
 Contemporary Art,collages,"Kremen, Irwin",America,Male,1
-Contemporary Art,collages,"Lardera, Berto",France,Male,2
 Contemporary Art,collages,"Le Va, Barry",America,Male,1
-Contemporary Art,collages,"Loewe, Michael",America,Male,2
-Contemporary Art,collages,"Marin, Laura",America,Female,1
-Contemporary Art,collages,"Massey, Jack",America,Male,3
-Contemporary Art,collages,"Morris, Elaine",America,Female,2
 Contemporary Art,collages,"Nickle, Robert",America,Male,1
-Contemporary Art,collages,"Paluzzi, Rinaldo",America,Male,2
-Contemporary Art,collages,"Paolozzi, Eduardo L.",Scotland,Male,3
-Contemporary Art,collages,"Rockburne, Dorothea",America,Female,2
 Contemporary Art,collages,"Schwitters, Kurt",Germany,Male,1
-Contemporary Art,collages,"Shaw, Charles G.",America,Male,2
-Contemporary Art,collages,"Shiras, Myrna",America,Female,1
 Contemporary Art,collages,"Sietsema, Paul",America,Male,1
-Contemporary Art,collages,"Whiteread, Rachel",Britain,Female,14
-Contemporary Art,collages,"Zelt, Martha",America,Female,1
 Contemporary Art,collages,"Zets, Mark",America,Male,1
-Contemporary Art,drawings and watercolors,"Ackermann, Franz",Germany,Male,12
 Contemporary Art,drawings and watercolors,"Anliker, Roger",America,Male,1
-Contemporary Art,drawings and watercolors,Anselmo,Italy,Male,2
 Contemporary Art,drawings and watercolors,"Anselmo, Giovanni",Italy,Male,1
-Contemporary Art,drawings and watercolors,"Antes, Horst",Germany,Male,2
-Contemporary Art,drawings and watercolors,"Anthony, Carol",America,Female,1
 Contemporary Art,drawings and watercolors,"Arita, Akira",Japan,Male,1
 Contemporary Art,drawings and watercolors,"Armitage, Kenneth",Britain,Male,1
 Contemporary Art,drawings and watercolors,"Armstrong, David",America,Male,1
 Contemporary Art,drawings and watercolors,"Asher, Dan",America,Male,1
 Contemporary Art,drawings and watercolors,"Avniel, Mordechai",Israel,Male,1
-Contemporary Art,drawings and watercolors,"Barker, Walter W.",America,Male,2
 Contemporary Art,drawings and watercolors,"Baskin, Leonard",America,Male,1
 Contemporary Art,drawings and watercolors,"Battke, Heinz",Germany,Male,1
 Contemporary Art,drawings and watercolors,"Bechtle, C. Ronald",America,Male,1
-Contemporary Art,drawings and watercolors,"Beck, Kim",America,Female,1
 Contemporary Art,drawings and watercolors,"Beckman, William",America,Male,1
-Contemporary Art,drawings and watercolors,"Bendiner, Alfred",America,Male,15
-Contemporary Art,drawings and watercolors,"Bernstein, Judith",America,Female,1
-Contemporary Art,drawings and watercolors,"Bleckner, Ross",America,Male,2
-Contemporary Art,drawings and watercolors,"Blumenfeld, Rochelle Reznik",America,Female,1
-Contemporary Art,drawings and watercolors,"Bochner, Mel",America,Male,10
-Contemporary Art,drawings and watercolors,"Borda, Juliette",America,Female,1
 Contemporary Art,drawings and watercolors,"Borduas, Paul Emile",Canada,Male,1
-Contemporary Art,drawings and watercolors,"Bowden, Robert L.",America,Male,2
-Contemporary Art,drawings and watercolors,"Brands, Eugène ",Netherlands,Male,2
-Contemporary Art,drawings and watercolors,"Brooks, James",America,Male,4
 Contemporary Art,drawings and watercolors,"Buckley, Stephen",Britain,Male,1
-Contemporary Art,drawings and watercolors,"Burri, Alberto",Italy,Male,2
-Contemporary Art,drawings and watercolors,"Byars, James L.",America,Male,2
-Contemporary Art,drawings and watercolors,"Cadmus, Paul",America,Male,5
-Contemporary Art,drawings and watercolors,"Chadwick, Lynn R.",Britain,Male,12
 Contemporary Art,drawings and watercolors,"Chagoya, Enrique",Mexico,Male,1
 Contemporary Art,drawings and watercolors,"Clark, Michael",America,Male,1
-Contemporary Art,drawings and watercolors,"Clayton, Lenka",Britain,Female,16
-Contemporary Art,drawings and watercolors,"Nieuwenhuys, Constant",Netherlands,Male,11
-Contemporary Art,drawings and watercolors,"Cooper, Douglas",America,Male,4
-Contemporary Art,drawings and watercolors,"Crumb, Robert",America,Male,2
-Contemporary Art,drawings and watercolors,Dado,Montenegro,Male,2
-Contemporary Art,drawings and watercolors,"Dalla Piccola Wood, Teresa",America,Female,1
 Contemporary Art,drawings and watercolors,"de Credico, Alfred",America,Male,1
-Contemporary Art,drawings and watercolors,"De Kooning, Willem",America,Male,3
 Contemporary Art,drawings and watercolors,"Defazio, Raymond",America,Male,1
-Contemporary Art,drawings and watercolors,"Delaunay, Sonia",France,Female,2
 Contemporary Art,drawings and watercolors,"Denney, Jim",America,Male,1
-Contemporary Art,drawings and watercolors,"Derryberry, Virginia",America,Female,1
-Contemporary Art,drawings and watercolors,"Dewasne, Jean",France,Male,4
-Contemporary Art,drawings and watercolors,"Diebenkorn, Richard",America,Male,6
 Contemporary Art,drawings and watercolors,"Dogançay, Burhan C.",America,Male,1
-Contemporary Art,drawings and watercolors,"Dombek, George",America,Male,2
-Contemporary Art,drawings and watercolors,"Donnelly, Trisha",America,Female,2
-Contemporary Art,drawings and watercolors,"Dotremont, Christian",Belgium,Male,2
-Contemporary Art,drawings and watercolors,"Dumas, Marlene",South Africa,Female,5
 Contemporary Art,drawings and watercolors,"Eberle, Edward S.",America,Male,1
 Contemporary Art,drawings and watercolors,"Falk, Hans A.",Switzerland,Male,1
 Contemporary Art,drawings and watercolors,"Farreras, Francisco",Spain,Male,1
-Contemporary Art,drawings and watercolors,"Ferrara, Jackie",America,Female,2
 Contemporary Art,drawings and watercolors,"Fett, William",America,Male,1
 Contemporary Art,drawings and watercolors,"Formicola, John",America,Male,1
-Contemporary Art,drawings and watercolors,"Francis, Sam",America,Male,4
 Contemporary Art,drawings and watercolors,"Franck, Frederick S.",America,Male,1
-Contemporary Art,drawings and watercolors,"Garver, Wilhelmina J.",Netherlands,Female,1
 Contemporary Art,drawings and watercolors,"Gaul, Winfred",Germany,Male,1
 Contemporary Art,drawings and watercolors,"George, Thomas",America,Male,1
-Contemporary Art,drawings and watercolors,"Goto, Joseph",America,Male,2
 Contemporary Art,drawings and watercolors,"Graham, John D.",America,Male,1
-Contemporary Art,drawings and watercolors,"Green, Robert B.",America,Male,2
 Contemporary Art,drawings and watercolors,"Gropper, William",America,Male,1
 Contemporary Art,drawings and watercolors,"Guzmán, Daniel",Mexico,Male,1
-Contemporary Art,drawings and watercolors,"Haerizadeh, Rokni",Iran,Male,8
 Contemporary Art,drawings and watercolors,"Hale, Stephen",America,Male,1
-Contemporary Art,drawings and watercolors,"Hall, Susan",America,Female,1
-Contemporary Art,drawings and watercolors,"Halley, Peter",America,Male,2
 Contemporary Art,drawings and watercolors,"Hatzikyriakos-Ghikas, Nikos",Greece,Male,1
-Contemporary Art,drawings and watercolors,"Hayes, David",America,Male,2
-Contemporary Art,drawings and watercolors,"Heerbrant, Henri",Belgium,Male,21
-Contemporary Art,drawings and watercolors,"Hesse, Eva",America,Female,1
 Contemporary Art,drawings and watercolors,"Highlands, Delbert",America,Male,1
-Contemporary Art,drawings and watercolors,"Hiland, Joseph D.",America,Male,2
-Contemporary Art,drawings and watercolors,"Hios, Theo",America,Male,3
-Contemporary Art,drawings and watercolors,"Hofmann, Otto",Germany,Male,2
 Contemporary Art,drawings and watercolors,"Holstad, Christian",America,Male,1
 Contemporary Art,drawings and watercolors,"Hughes, Joseph",America,Male,1
-Contemporary Art,drawings and watercolors,Inoue Yuichi,Japan,Male,2
 Contemporary Art,drawings and watercolors,"Izu, David",America,Male,1
 Contemporary Art,drawings and watercolors,"Jacobsen, Colter",America,Male,1
-Contemporary Art,drawings and watercolors,"Jacquette, Yvonne H.",America,Female,1
-Contemporary Art,drawings and watercolors,"Jensen, Bill",America,Male,2
-Contemporary Art,drawings and watercolors,"Johnson, Lester F.",America,Male,5
-Contemporary Art,drawings and watercolors,"Judd, Donald",America,Male,21
-Contemporary Art,drawings and watercolors,"Karlsen, Anne M.",America,Female,1
 Contemporary Art,drawings and watercolors,"Kassab-Bachi, Marwan",Germany,Male,1
-Contemporary Art,drawings and watercolors,"Kaufman, Lois",America,Female,1
 Contemporary Art,drawings and watercolors,"Kaufmann, Robert D.",America,Male,1
-Contemporary Art,drawings and watercolors,"Kelley, Mike",America,Male,4
-Contemporary Art,drawings and watercolors,"Kienbusch, William A.",America,Male,3
 Contemporary Art,drawings and watercolors,"Kleinschmidt, Paul",Germany,Male,1
-Contemporary Art,drawings and watercolors,"Kline, Franz",America,Male,2
 Contemporary Art,drawings and watercolors,"Knapp, Stephen",Britain,Male,1
 Contemporary Art,drawings and watercolors,"Knowles, Christopher",America,Male,1
-Contemporary Art,drawings and watercolors,"Koerner, Henry",America,Male,26
-Contemporary Art,drawings and watercolors,"Kolk, Douglas",America,Male,4
 Contemporary Art,drawings and watercolors,"Kuitca, Guillermo",Argentine,Male,1
 Contemporary Art,drawings and watercolors,"Kuniyoshi, Yasuo",America,Male,1
-Contemporary Art,drawings and watercolors,"Kupferman, Moshe",Israel,Male,2
-Contemporary Art,drawings and watercolors,Dr. Lakra,Mexico,Male,2
-Contemporary Art,drawings and watercolors,"Lanyon, Peter",Britain,Male,2
-Contemporary Art,drawings and watercolors,"Lehman, Bernice",America,Female,3
-Contemporary Art,drawings and watercolors,"Lepper, Robert",America,Male,3
 Contemporary Art,drawings and watercolors,"Levine, David",America,Male,1
-Contemporary Art,drawings and watercolors,"Levine, Ruth Eleanor",America,Female,1
-Contemporary Art,drawings and watercolors,Lucebert,Netherlands,Male,5
-Contemporary Art,drawings and watercolors,"Marsh, Reginald",America,Male,3
-Contemporary Art,drawings and watercolors,"Maryan, Maryan S.",America,Male,4
 Contemporary Art,drawings and watercolors,"Masurovsky, Gregory",America,Male,1
-Contemporary Art,drawings and watercolors,"Mathieu, Georges",France,Male,2
 Contemporary Art,drawings and watercolors,"Matisse, Henri",France,Male,1
-Contemporary Art,drawings and watercolors,"McLaughlin, John",America,Male,3
 Contemporary Art,drawings and watercolors,"Meadows, Bernard",Britain,Male,1
-Contemporary Art,drawings and watercolors,"Michaux, Henri",France,Male,3
-Contemporary Art,drawings and watercolors,"Milroy, Lisa",Canada,Female,1
-Contemporary Art,drawings and watercolors,"Mir, Aleksandra",Sweden,Female,3
-Contemporary Art,drawings and watercolors,"Miró, Joan",Spain,Male,7
-Contemporary Art,drawings and watercolors,"Miss, Mary",America,Female,1
-Contemporary Art,drawings and watercolors,"Montgomery, Kathleen",America,Female,1
 Contemporary Art,drawings and watercolors,"Moreno, David",America,Male,1
 Contemporary Art,drawings and watercolors,"Muller, Dave",America,Male,1
-Contemporary Art,drawings and watercolors,"Murakami, Tomoharu",Japan,Male,2
-Contemporary Art,drawings and watercolors,"Nicholson, Ben",Britain,Male,3
-Contemporary Art,drawings and watercolors,"O?owska, Paulina",Poland,Female,1
 Contemporary Art,drawings and watercolors,"Oiticica, Hélio",Brazil,Male,1
 Contemporary Art,drawings and watercolors,"Olds, Herbert",America,Male,1
 Contemporary Art,drawings and watercolors,"Olson, Chuck",America,Male,1
-Contemporary Art,drawings and watercolors,"Parsons, Betty",America,Female,2
-Contemporary Art,drawings and watercolors,"Pedersen, Carl-Henning",Denmark,Male,23
-Contemporary Art,drawings and watercolors,"Pehr, Hallsten",America,Male,2
-Contemporary Art,drawings and watercolors,"Penalba, Alicia",France,Female,1
-Contemporary Art,drawings and watercolors,"Pettibon, Raymond",America,Male,2
 Contemporary Art,drawings and watercolors,"Piccillo, Joseph",America,Male,1
-Contemporary Art,drawings and watercolors,"Piene, Otto",Germany,Male,5
 Contemporary Art,drawings and watercolors,"Pirozzi, Jorge H.",Argentine,Male,1
 Contemporary Art,drawings and watercolors,"Ploeger, John",America,Male,1
 Contemporary Art,drawings and watercolors,"Pomodoro, Giò",Italy,Male,1
-Contemporary Art,drawings and watercolors,"Portland, Jack",America,Male,2
-Contemporary Art,drawings and watercolors,"Quaytman, Harvey",America,Male,2
 Contemporary Art,drawings and watercolors,"Resnick, Milton",America,Male,1
-Contemporary Art,drawings and watercolors,"Richter, Gerhard",Germany,Male,2
-Contemporary Art,drawings and watercolors,"Rollins, Tim|K. O. S.",America|America,Male,1
+Contemporary Art,drawings and watercolors,"Rollins, Tim|K. O. S.",America,Male,1
 Contemporary Art,drawings and watercolors,"Rondinone, Ugo",Switzerland,Male,1
 Contemporary Art,drawings and watercolors,"Rosas, Mel",America,Male,1
-Contemporary Art,drawings and watercolors,"Rosati, James",America,Male,4
-Contemporary Art,drawings and watercolors,"Roseman, Stanley",America,Male,2
-Contemporary Art,drawings and watercolors,"Ruscha, Edward",America,Male,5
-Contemporary Art,drawings and watercolors,"Samuels, Diane",America,Female,2
-Contemporary Art,drawings and watercolors,"Saura, Antonio",Spain,Male,3
-Contemporary Art,drawings and watercolors,"Schirm, David",America,Male,2
-Contemporary Art,drawings and watercolors,"Schumacher, Emil",Germany,Male,3
 Contemporary Art,drawings and watercolors,"Schwalb, Harry",America,Male,1
 Contemporary Art,drawings and watercolors,"Schweikher, Paul",America,Male,1
-Contemporary Art,drawings and watercolors,"Seborovski, Carole",America,Female,1
-Contemporary Art,drawings and watercolors,"Shahn, Ben",America,Male,2
-Contemporary Art,drawings and watercolors,"Shapiro, Joel",America,Male,2
-Contemporary Art,drawings and watercolors,"Shechter, Laura",America,Female,1
 Contemporary Art,drawings and watercolors,"Sheppard, Joseph S.",America,Male,1
 Contemporary Art,drawings and watercolors,"Shields, Barry",America,Male,1
-Contemporary Art,drawings and watercolors,"Shoumatoff, Elizabeth",America,Female,1
 Contemporary Art,drawings and watercolors,"Shulman, Morris",America,Male,1
 Contemporary Art,drawings and watercolors,"Skolnik, Robert",America,Male,1
-Contemporary Art,drawings and watercolors,"Smith, David",America,Male,9
-Contemporary Art,drawings and watercolors,"Smith, Richard",Britain,Male,10
-Contemporary Art,drawings and watercolors,"Stockholder, Jessica",America,Female,2
 Contemporary Art,drawings and watercolors,"Sugarman, George",America,Male,1
 Contemporary Art,drawings and watercolors,"Tchakalian, Sam",America,Male,1
-Contemporary Art,drawings and watercolors,"Tinguely, Jean",Switzerland,Male,2
 Contemporary Art,drawings and watercolors,"Tomaselli, Fred",America,Male,1
 Contemporary Art,drawings and watercolors,"Topolski, Andrew",America,Male,1
-Contemporary Art,drawings and watercolors,"Towbin, Janet",America,Female,2
 Contemporary Art,drawings and watercolors,"Tracy, Michael",America,Male,1
-Contemporary Art,drawings and watercolors,unknown,Japan,unknown,1
-Contemporary Art,drawings and watercolors,"Vasarely, Victor",France,Male,4
 Contemporary Art,drawings and watercolors,"Vigil, Paul",America,Male,1
 Contemporary Art,drawings and watercolors,"Vital, Not",Switzerland,Male,1
-Contemporary Art,drawings and watercolors,"Voelker, Elizabeth",America,Female,1
-Contemporary Art,drawings and watercolors,"Warhol, Andy",America,Male,17
-Contemporary Art,drawings and watercolors,"Watts, Christopher J.",Britain,Male,4
-Contemporary Art,drawings and watercolors,"Webster, Meg",America,Female,1
-Contemporary Art,drawings and watercolors,"Wekua, Andro",Georgian,Male,2
 Contemporary Art,drawings and watercolors,"Werner, Theodor",Germany,Male,1
 Contemporary Art,drawings and watercolors,"West, Troy",America,Male,1
-Contemporary Art,drawings and watercolors,"Wilke, Hannah",America,Female,3
 Contemporary Art,drawings and watercolors,"Williams, Danny",America,Male,1
 Contemporary Art,drawings and watercolors,"Williams, Fred",Australian,Male,1
-Contemporary Art,drawings and watercolors,"Winberg, John Y.",America,Male,2
 Contemporary Art,drawings and watercolors,"Wofford, Philip",America,Male,1
-Contemporary Art,drawings and watercolors,Wols,France,Male,2
-Contemporary Art,drawings and watercolors,"Wood, Beatrice",America,Female,1
 Contemporary Art,drawings and watercolors,"Wright, Richard",Britain,Male,1
 Contemporary Art,drawings and watercolors,"Wyeth, Andrew",America,Male,1
-Contemporary Art,drawings and watercolors,"YounGermany, Jack",America,Male,11
-Contemporary Art,drawings and watercolors,"Yunkers, Adja",America,Male,2
-Contemporary Art,drawings and watercolors,"Zalopany, Michele",America,Female,1
-Contemporary Art,drawings and watercolors,"Zapkus, Kes",America,Male,2
 Contemporary Art,drawings and watercolors,"Zedler, Vince",America,Male,1
 Contemporary Art,mixed media,"Alÿs, Francis",Belgium,Male,1
-Contemporary Art,mixed media,"Burgess, Lowry",America,Male,2
 Contemporary Art,mixed media,"Courtright, Robert",America,Male,1
-Contemporary Art,mixed media,"Davey, Moyra",Canada,Female,1
 Contemporary Art,mixed media,"Farber, Dennis",America,Male,1
 Contemporary Art,mixed media,"Finlay, Ian H.",Scotland,Male,1
-Contemporary Art,mixed media,"Fuller, Sue",America,Female,1
 Contemporary Art,mixed media,"Greenberg, Alan",America,Male,1
-Contemporary Art,mixed media,"Haskell, Jane",America,Female,5
-Contemporary Art,mixed media,"Heinrich, Adrienne",America,Female,1
 Contemporary Art,mixed media,John Schlesinger,America,Male,1
 Contemporary Art,mixed media,"Kane, Bill",America,Male,1
 Contemporary Art,mixed media,"Le Clair, Charles",America,Male,1
 Contemporary Art,mixed media,"Marclay, Christian",America,Male,1
 Contemporary Art,mixed media,"Pagano, Alfonse",America,Male,1
-Contemporary Art,mixed media,"Stavitsky, Ellen",America,Female,2
-Contemporary Art,mixed media,"Stilinovi?, Mladen",Serbia,Male,12
-Contemporary Art,mixed media,"Strau, Josef",Austria,Male,3
 Contemporary Art,paintings," Yoshihara, Jiro",Japan,Male,1
-Contemporary Art,paintings,"Abrams, Ruth D.",America,Female,1
-Contemporary Art,paintings,"Abts, Tomma",Germany,Female,1
-Contemporary Art,paintings,"Allison, Elizabeth",America,Female,1
 Contemporary Art,paintings,"Amar, Joseph",Canada,Male,1
-Contemporary Art,paintings,"Anuszkiewicz, Richard J.",America,Male,2
-Contemporary Art,paintings,"Appel, Karel",Netherlands,Male,16
-Contemporary Art,paintings,"Arakawa, Shusaku",Japan,Male,2
-Contemporary Art,paintings,"Ardon, Mordecai",Israel,Male,2
 Contemporary Art,paintings,"Bacon, Francis",Britain,Male,1
-Contemporary Art,paintings,"Baer, Jo",America,Female,2
-Contemporary Art,paintings,"Baier, Jean",Switzerland,Male,3
-Contemporary Art,paintings,"Baj, Enrico",Italy,Male,2
 Contemporary Art,paintings,"Balle, Mogens",Denmark,Male,1
-Contemporary Art,paintings,"Baselitz, Georg",Germany,Male,2
 Contemporary Art,paintings,"Bates, David",America,Male,1
 Contemporary Art,paintings,"Bates, Leo",America,Male,1
-Contemporary Art,paintings,"Bazaine, Jean René",France,Male,2
 Contemporary Art,paintings,"Baziotes, William",America,Male,1
 Contemporary Art,paintings,"Beaman, R. B.",America,Male,1
-Contemporary Art,paintings,"Beauchamp, Robert",America,Male,2
 Contemporary Art,paintings,"Benn, Ben",America,Male,1
-Contemporary Art,paintings,"Benning, Sadie",America,Female,1
-Contemporary Art,paintings,"Berman, Rebecca R.",America,Female,2
-Contemporary Art,paintings,"Bissier, Julius",Germany,Male,2
-Contemporary Art,paintings,"Blaine, Nell",America,Female,1
 Contemporary Art,paintings,"Borremans, MichaÃƒÂ«l",Belgium,Male,1
-Contemporary Art,paintings,"Bosman, Richard",America,Male,2
 Contemporary Art,paintings,"Brüning, Peter",Germany,Male,1
 Contemporary Art,paintings,"Brandini, Enrico",Italy,Male,1
 Contemporary Art,paintings,"Brandt, Warren",America,Male,1
@@ -287,8 +703,6 @@ Contemporary Art,paintings,"Buren, Daniel",France,Male,1
 Contemporary Art,paintings,"Burlin, Paul",America,Male,1
 Contemporary Art,paintings,"Bush, Jack",Canada,Male,1
 Contemporary Art,paintings,"Calcagno, Lawrence",America,Male,1
-Contemporary Art,paintings,"Canogar, Rafael G.",Spain,Male,2
-Contemporary Art,paintings,"Caporael, Suzanne",America,Female,1
 Contemporary Art,paintings,"Cobo, Chema",Spain,Male,1
 Contemporary Art,paintings,"Cohen, George",America,Male,1
 Contemporary Art,paintings,"Collignon, Georges",Belgium,Male,1
@@ -296,91 +710,53 @@ Contemporary Art,paintings,"Concha, Félix de la",Spain,Male,1
 Contemporary Art,paintings,"Congdon, William",America,Male,1
 Contemporary Art,paintings,"Conlon, William",America,Male,1
 Contemporary Art,paintings,"Consagra, Pietro",Italy,Male,1
-Contemporary Art,paintings,"Contis, Helen",America,Female,4
-Contemporary Art,paintings,"Cooley, Cynthia F.",America,Female,1
 Contemporary Art,paintings,"Corbett, Edward",America,Male,1
 Contemporary Art,paintings,"Corpora, Antonio",Italy,Male,1
 Contemporary Art,paintings,"Cox, Jan",Belgium,Male,1
 Contemporary Art,paintings,"Cremonini, Leonardo",Italy,Male,1
-Contemporary Art,paintings,"Crozier, William",Ireland,Male,2
 Contemporary Art,paintings,"Currin, John",America,Male,1
 Contemporary Art,paintings,"Damianos, Sylvester",America,Male,1
 Contemporary Art,paintings,"Daphnis, Nassos",America,Male,1
-Contemporary Art,paintings,"Dash, Robert W.",America,Male,7
-Contemporary Art,paintings,"Davie, Alan",Britain,Male,3
 Contemporary Art,paintings,"Davis, Gene",America,Male,1
 Contemporary Art,paintings,"Davis, Jerrold",America,Male,1
-Contemporary Art,paintings,"De Bernardin, Anthony",America,Male,2
 Contemporary Art,paintings,"De Keyser, Raoul",Belgium,Male,1
 Contemporary Art,paintings,"Delaney, Beauford",America,Male,1
 Contemporary Art,paintings,"Dial, Thornton, Sr.",America,Male,1
-Contemporary Art,paintings,"Dine, Jim",America,Male,4
-Contemporary Art,paintings,"Doig, Peter",Scotland,Male,4
 Contemporary Art,paintings,"Doucet, Jacques",France,Male,1
 Contemporary Art,paintings,"Downes, Rackstraw",America,Male,1
 Contemporary Art,paintings,"Draper, William Franklin",America,Male,1
-Contemporary Art,paintings,"Dryer, Moira J.",America,Female,1
 Contemporary Art,paintings,"Dudant, Roger",Belgium,Male,1
 Contemporary Art,paintings,"Dutterer, William",America,Male,1
-Contemporary Art,paintings,"Edlich, Stephen",America,Male,2
-Contemporary Art,paintings,"Eisenman, Nicole",America,Female,1
-Contemporary Art,paintings,"Eklind, Marjorie",America,Female,1
-Contemporary Art,paintings,"Elespe, Jeronimo",Spain,Male,2
 Contemporary Art,paintings,"Elliott, Ronnie",America,Male,1
 Contemporary Art,paintings,"Estes, Richard",America,Male,1
-Contemporary Art,paintings,"Förg, Günther",Germany,Male,37
-Contemporary Art,paintings,"Fangor, Wojciech",Poland,Male,2
 Contemporary Art,paintings,"Farber, Manny",America,Male,1
-Contemporary Art,paintings,"Federle, Helmut",Switzerland,Male,2
 Contemporary Art,paintings,"Feeley, Paul",America,Male,1
-Contemporary Art,paintings,"Fishman, Louise",America,Female,1
 Contemporary Art,paintings,"Foulkes, Llyn",America,Male,1
 Contemporary Art,paintings,"Freedman, Maurice",America,Male,1
-Contemporary Art,paintings,"Frelinghuysen, Suzy",America,Female,1
-Contemporary Art,paintings,"Fromboluti, Sideo",America,Male,2
 Contemporary Art,paintings,"Garbell, Alexandre",France,Male,1
-Contemporary Art,paintings,"Geiss-Osby, Larissa",America,Female,1
 Contemporary Art,paintings,"Georgiadis, Nicholas",Greece,Male,1
-Contemporary Art,paintings,"Getz, Ilse",Germany,Female,1
 Contemporary Art,paintings,"Gibbons, Bud",America,Male,1
 Contemporary Art,paintings,"Gibbons, Charles",America,Male,1
 Contemporary Art,paintings,"Gilbert, Stephen",Britain,Male,1
-Contemporary Art,paintings,"Gillen, Ann N.",America,Female,1
 Contemporary Art,paintings,"Gilliam, Sam",America,Male,1
-Contemporary Art,paintings,"Godard, Gabriel",France,Male,2
 Contemporary Art,paintings,"Goeritz, Mathias",Germany,Male,1
 Contemporary Art,paintings,"Goldring, Milton",America,Male,1
 Contemporary Art,paintings,"González, Juan",Cuba,Male,1
 Contemporary Art,paintings,"Goodnough, Robert A.",America,Male,1
-Contemporary Art,paintings,"Greene, Balcomb",America,Male,3
-Contemporary Art,paintings,"Greene, Gertrude Glass",America,Female,1
-Contemporary Art,paintings,"Greene, Stephen",America,Male,2
 Contemporary Art,paintings,"Griefen, John",America,Male,1
 Contemporary Art,paintings,"Grotjahn, Mark",America,Male,1
 Contemporary Art,paintings,"Guerrero, José",Spain,Male,1
-Contemporary Art,paintings,"Guston, Philip",America,Male,3
 Contemporary Art,paintings,"Guttuso, Renato",Italy,Male,1
 Contemporary Art,paintings,"Guyton, Wade",America,Male,1
-Contemporary Art,paintings,"Hafftka, Michael",America,Male,2
 Contemporary Art,paintings,"Hailstone, Bernard",Britain,Male,1
-Contemporary Art,paintings,"Half, Gertrude T.",America,Female,1
 Contemporary Art,paintings,"Haring, Keith",America,Male,1
-Contemporary Art,paintings,"Hartigan, Grace",America,Female,6
 Contemporary Art,paintings,Hasegawa Akira,Japan,Male,1
-Contemporary Art,paintings,"Held, Al",America,Male,3
 Contemporary Art,paintings,"Hennessy, Richard",America,Male,1
-Contemporary Art,paintings,"Hockney, David",Britain,Male,3
 Contemporary Art,paintings,"Hodgkin, Howard",Britain,Male,1
-Contemporary Art,paintings,"Hollegha, Wolfgang",Austria,Male,5
 Contemporary Art,paintings,"Honegger, Gottfried",Switzerland,Male,1
 Contemporary Art,paintings,"Hopkins, Budd",America,Male,1
-Contemporary Art,paintings,"Hornung, Preben",Denmark,Female,1
 Contemporary Art,paintings,"Howard, Charles",America,Male,1
-Contemporary Art,paintings,"Humphrey, David",America,Male,2
 Contemporary Art,paintings,"Humphrey, Ralph",America,Male,1
-Contemporary Art,paintings,"Humphries, Jacqueline",America,Female,1
-Contemporary Art,paintings,"Indiaa, Robert",America,Male,8
-Contemporary Art,paintings,"Irwin, Gwyther",Britain,Male,2
 Contemporary Art,paintings,"Isermann, Jim",America,Male,1
 Contemporary Art,paintings,"Jacobsen, Egill",Denmark,Male,1
 Contemporary Art,paintings,"Jaenisch, Hans",Germany,Male,1
@@ -388,59 +764,32 @@ Contemporary Art,paintings,"Jarvaise, James",America,Male,1
 Contemporary Art,paintings,"Jenney, Neil",America,Male,1
 Contemporary Art,paintings,"Jensen, Alfred",America,Male,1
 Contemporary Art,paintings,"Jensen, Sergej",Denmark,Male,1
-Contemporary Art,paintings,"Jorn, Asger",Denmark,Male,30
 Contemporary Art,paintings,"Jurysta, Gary L.",America,Male,1
 Contemporary Art,paintings,"Kaptan, Hasan",Turkey,Male,1
-Contemporary Art,paintings,"Karn, Gloria S.",America,Female,1
-Contemporary Art,paintings,"Katz, Alex",America,Male,24
-Contemporary Art,paintings,Kazuki Yasuo,Japan,Male,2
 Contemporary Art,paintings,"Keller, Frank",America,Male,1
-Contemporary Art,paintings,"Kelly, Ellsworth",America,Male,4
-Contemporary Art,paintings,"Kiefer, Anselm",Germany,Male,3
-Contemporary Art,paintings,"Kinstler, Everett R.",America,Male,6
 Contemporary Art,paintings,"Kirkeby, Per",Denmark,Male,1
 Contemporary Art,paintings,"Krasnow, Peter",America,Male,1
 Contemporary Art,paintings,"Kunath, Friedrich",Germany,Male,1
 Contemporary Art,paintings,"Kuno, Shin",Japan,Male,1
-Contemporary Art,paintings,"Kushner, Robert",America,Male,2
-Contemporary Art,paintings,"Kwiatek, Greg",America,Male,2
 Contemporary Art,paintings,"La Noue, Terence David",America,Male,1
-Contemporary Art,paintings,"Lacasse, Joseph",Belgium,Male,2
-Contemporary Art,paintings,"Lahner, Emile",Hungary,Male,2
-Contemporary Art,paintings,"Larsen, Mernet",America,Female,1
 Contemporary Art,paintings,"Lataster, Ger",Netherlands,Male,1
-Contemporary Art,paintings,"Laurencin, Marie",France,Female,1
 Contemporary Art,paintings,"Le Brocquy, Louis",Ireland,Male,1
-Contemporary Art,paintings,"Lee, Catherine",America,Female,1
-Contemporary Art,paintings,"Leger, Jeanne",America,Female,1
 Contemporary Art,paintings,"Leirner, Jac",Brazil,Male,1
 Contemporary Art,paintings,"Ligon, Glenn",America,Male,1
 Contemporary Art,paintings,"Lin, Richard",Britain,Male,1
 Contemporary Art,paintings,"Loew, Michael",America,Male,1
 Contemporary Art,paintings,"Louis, Morris",America,Male,1
-Contemporary Art,paintings,"Lucas, Christopher",America,Male,2
 Contemporary Art,paintings,"Madigan, Michael G.",America,Male,1
 Contemporary Art,paintings,"Müller, Jan",America,Male,1
-Contemporary Art,paintings,"Magritte, René",Belgium,Male,2
-Contemporary Art,paintings,"Manessier, Alfred",France,Male,8
-Contemporary Art,paintings,"Mangold, Robert",America,Male,2
 Contemporary Art,paintings,"Marfaing, André",France,Male,1
-Contemporary Art,paintings,"Marini, Marino",Italy,Male,2
 Contemporary Art,paintings,"Marshall, Kerry J.",America,Male,1
-Contemporary Art,paintings,"Martin, Agnes",Canada,Female,1
 Contemporary Art,paintings,"Martinez, Juan",Spain,Male,1
 Contemporary Art,paintings,"Masson, André",France,Male,1
-Contemporary Art,paintings,"Matta, Roberto",Chile,Male,3
-Contemporary Art,paintings,"Maxim, David",America,Male,4
-Contemporary Art,paintings,"Mehretu, Julie",America,Female,8
-Contemporary Art,paintings,"Mendelson, Marc",Belgium,Male,2
 Contemporary Art,paintings,"Mikl, Josef",Austria,Male,1
-Contemporary Art,paintings,"Milhazes, Beatriz",Brazil,Female,2
 Contemporary Art,paintings,"Millais, Raoul",Britain,Male,1
 Contemporary Art,paintings,"Miller, David J.",America,Male,1
 Contemporary Art,paintings,"Miller, John M.",America,Male,1
 Contemporary Art,paintings,"Monachesi, Sante",Italy,Male,1
-Contemporary Art,paintings,"Morrill, Michael",America,Male,6
 Contemporary Art,paintings,"Morris, Quentin",America,Male,1
 Contemporary Art,paintings,"Mundy, Henry",Britain,Male,1
 Contemporary Art,paintings,"Murch, Walter T.",Canada,Male,1
@@ -448,559 +797,219 @@ Contemporary Art,paintings,"Natkin, Robert",America,Male,1
 Contemporary Art,paintings,"Nelson, James P.",America,Male,1
 Contemporary Art,paintings,"Neuman, Robert S.",America,Male,1
 Contemporary Art,paintings,"Noëll, Georges",France,Male,1
-Contemporary Art,paintings,"Nolan, Sidney",Australian,Male,25
-Contemporary Art,paintings,"Noland, Kenneth",America,Male,2
 Contemporary Art,paintings,"Ofili, Chris",Britain,Male,1
 Contemporary Art,paintings,"Okada, Kenzo",Japan,Male,1
 Contemporary Art,paintings,"Olitski, Jules",America,Male,1
-Contemporary Art,paintings,On Kawara,Japan,Male,3
-Contemporary Art,paintings,"Palazuelo, Pablo",Spain,Male,2
-Contemporary Art,paintings,"Parcell, Malcolm",America,Male,2
-Contemporary Art,paintings,"Paschke, Ed",America,Male,3
-Contemporary Art,paintings,"Paul, Josephine",America,Female,1
-Contemporary Art,paintings,"Pearlstein, Philip",America,Male,11
-Contemporary Art,paintings,"Pendleton, Adam",America,Male,4
-Contemporary Art,paintings,"Piper, Jane",America,Female,1
-Contemporary Art,paintings,"Piper, John",Britain,Male,12
-Contemporary Art,paintings,"Pirandello, Fausto",Italy,Male,2
 Contemporary Art,paintings,"Pittman, Lari",America,Male,1
-Contemporary Art,paintings,"Platschek, Hans",Germany,Male,2
 Contemporary Art,paintings,"Pollock, Jackson",America,Male,1
-Contemporary Art,paintings,"Polson, Steven",America,Male,2
 Contemporary Art,paintings,"Poons, Larry",America,Male,1
-Contemporary Art,paintings,"Porter, Katherine",America,Female,1
 Contemporary Art,paintings,"Prekop, Zak",America,Male,1
-Contemporary Art,paintings,"Qualters, Robert",America,Male,8
 Contemporary Art,paintings,"Rand, Archie",America,Male,1
 Contemporary Art,paintings,"Rathman, David",America,Male,1
-Contemporary Art,paintings,"Rauch, Neo",Germany,Male,2
-Contemporary Art,paintings,"Reinhardt, Ad",America,Male,2
-Contemporary Art,paintings,"Remington, Deborah W.",America,Female,1
 Contemporary Art,paintings,"Riccobon, Giordano",America,Male,1
-Contemporary Art,paintings,"Riley, Bridget",Britain,Female,1
 Contemporary Art,paintings,"Riopelle, Jean-Paul",Canada,Male,1
 Contemporary Art,paintings,"Rivera, Manuel",Spain,Male,1
 Contemporary Art,paintings,"Robinson, Robert M.",America,Male,1
 Contemporary Art,paintings,"Ronald, William",Canada,Male,1
 Contemporary Art,paintings,"Rooskens, Anton",Netherlands,Male,1
-Contemporary Art,paintings,"Root, Ruth",America,Female,1
-Contemporary Art,paintings,"Rosenberg, Samuel",America,Male,385
-Contemporary Art,paintings,"Roth, Dieter",Switzerland,Male,5
 Contemporary Art,paintings,"Rothko, Mark",America,Male,1
 Contemporary Art,paintings,"Row, David",America,Male,1
-Contemporary Art,paintings,"Rowlands, Tom",America,Male,2
 Contemporary Art,paintings,"Ruolle, Lucien",France,Male,1
 Contemporary Art,paintings,"Salle, David",America,Male,1
 Contemporary Art,paintings,"Samant, Manmohan",India,Male,1
 Contemporary Art,paintings,"Sasnal, Wilhelm",Poland,Male,1
-Contemporary Art,paintings,"Saunders, Raymond Jennings",America,Male,15
-Contemporary Art,paintings,"Scharf, William",America,Male,6
 Contemporary Art,paintings,"Schnabel, Julian",America,Male,1
 Contemporary Art,paintings,"Schnyder, Jean-Frédéric",Switzerland,Male,1
-Contemporary Art,paintings,"Scott, William",Britain,Male,14
 Contemporary Art,paintings,"Scully, Sean",America,Male,1
-Contemporary Art,paintings,"Seidel, Jochen",America,Male,3
-Contemporary Art,paintings,"Seliger, Charles",America,Male,2
 Contemporary Art,paintings,"Shepler, Joseph",America,Male,1
 Contemporary Art,paintings,"Shikler, Aaron",America,Male,1
 Contemporary Art,paintings,"Sironi, Mario",Italy,Male,1
 Contemporary Art,paintings,"Smith, Leon P.",America,Male,1
-Contemporary Art,paintings,"Soulages, Pierre",France,Male,2
 Contemporary Art,paintings,"Soyer, Moses",America,Male,1
 Contemporary Art,paintings,"Spence, Andrew",America,Male,1
-Contemporary Art,paintings,"Speyer, Nora",America,Female,2
 Contemporary Art,paintings,"Sprotte, Siegward",Germany,Male,1
 Contemporary Art,paintings,"Stamm, Ted",America,Male,1
 Contemporary Art,paintings,"Stanczak, Julian",America,Male,1
 Contemporary Art,paintings,"Stanger, David",America,Male,1
-Contemporary Art,paintings,Stanslig,undetermined,Male,2
-Contemporary Art,paintings,"Stein, Ronald J.",America,Male,3
-Contemporary Art,paintings,"Stella, Frank",America,Male,5
-Contemporary Art,paintings,"Sterne, Hedda",America,Female,2
 Contemporary Art,paintings,"Stillman, Ary",America,Male,1
 Contemporary Art,paintings,"Stout, Myron S.",America,Male,1
 Contemporary Art,paintings,"Stupica, Gabrijel",Slovenia,Male,1
-Contemporary Art,paintings,Sugaï Kumi,Japan,Male,5
 Contemporary Art,paintings,"Sugito, Hiroshi",Japan,Male,1
 Contemporary Art,paintings,"Tamayo, Rufino",Mexico,Male,1
 Contemporary Art,paintings,"Tansey, Mark",America,Male,1
-Contemporary Art,paintings,"Taylor, Henry",America,Male,2
-Contemporary Art,paintings,"Teichman, Sabina",America,Female,1
-Contemporary Art,paintings,"Thek, Paul",America,Male,3
-Contemporary Art,paintings,"Thiebaud, Wayne",America,Male,3
-Contemporary Art,paintings,"Thompson, Ralston",America,Male,4
-Contemporary Art,paintings,"Ting, Walasse",China,Male,4
-Contemporary Art,paintings,"Tobey, Mark",America,Male,5
 Contemporary Art,paintings,"Trökes, Heinz",Germany,Male,1
 Contemporary Art,paintings,"Trier, Hann",Germany,Male,1
 Contemporary Art,paintings,"Tuymans, Luc",Belgium,Male,1
-Contemporary Art,paintings,"Twiggs, Russell G.",America,Male,7
 Contemporary Art,paintings,Twins Seven Seven,Nigeria,Male,1
 Contemporary Art,paintings,"Tworkov, Jack",America,Male,1
-Contemporary Art,paintings,unknown,France,unknown,1
 Contemporary Art,paintings,"Vasell, Chris",America,Male,1
-Contemporary Art,paintings,"Velde, Bram van",Netherlands,Male,2
-Contemporary Art,paintings,"Venard, Claude",France,Female,1
 Contemporary Art,paintings,"Vieira da Silva, Maria Helena",France,Male,1
-Contemporary Art,paintings,"Villon, Jacques",France,Male,3
-Contemporary Art,paintings,"von Wiegand, Charmion",America,Female,2
 Contemporary Art,paintings,"Waldman, Paul",America,Male,1
-Contemporary Art,paintings,"Walker, Kelley",America,Male,7
 Contemporary Art,paintings,"Warshaw, Howard",America,Male,1
 Contemporary Art,paintings,Wayne Gonzales,America,Male,1
-Contemporary Art,paintings,"Welliver, Neil",America,Male,2
 Contemporary Art,paintings,"Wiley, William",America,Male,1
-Contemporary Art,paintings,"Wilkes, Cathy",Ireland,Female,5
-Contemporary Art,paintings,"Willis, Thornton",America,Male,2
 Contemporary Art,paintings,"Wilson, Lloyd E.",America,Male,1
 Contemporary Art,paintings,"Wingren, Dan",America,Male,1
-Contemporary Art,paintings,"Winter, Fritz",Germany,Male,2
-Contemporary Art,paintings,"Witek, Joan",America,Female,1
 Contemporary Art,paintings,"Wolvecamp, Theo W.",Netherlands,Male,1
-Contemporary Art,paintings,"Wou-Ki, Zao",France,Male,3
-Contemporary Art,paintings,"Wyckaert, Maurice",Belgium,Male,2
 Contemporary Art,paintings,"Xceron, Jean",Greece,Male,1
 Contemporary Art,paintings,"Yrisarry, Mario",America,Male,1
 Contemporary Art,paintings,"Zaugg, Rémy",Switzerland,Male,1
 Contemporary Art,paintings,"Zoller, Edwin W.",America,Male,1
-Contemporary Art,paintings,"Zucker, Joe",America,Male,2
-Contemporary Art,prints,"Accardi, Carla",Italy,Female,1
 Contemporary Art,prints,"Acconci, Vito",America,Male,1
-Contemporary Art,prints,"Adam, Henri G.",France,Male,3
 Contemporary Art,prints,"Adams, Robert",Britain,Male,1
 Contemporary Art,prints,Ôuchi Makoto,Japan,Male,1
-Contemporary Art,prints,"Albers, Anni",America,Female,2
-Contemporary Art,prints,"Alechinsky, Pierre",Belgium,Male,99
-Contemporary Art,prints,Amano Kunihiro,Japan,Male,2
 Contemporary Art,prints,"Amen, Irving",America,Male,1
-Contemporary Art,prints,"Annesley, David",Britain,Male,2
-Contemporary Art,prints,"Arp, Jean",France,Male,5
-Contemporary Art,prints,"Artschwager, Richard",America,Male,4
-Contemporary Art,prints,"Auerbach, Frank H.",Britain,Male,5
-Contemporary Art,prints,"Avery, Milton",America,Male,2
 Contemporary Art,prints,Ay-O,Japan,Male,1
 Contemporary Art,prints,"Ayrton, Michael",Britain,Male,1
-Contemporary Art,prints,"Bachardy, Don",America,Male,2
-Contemporary Art,prints,"Bacon, Peggy",America,Female,4
-Contemporary Art,prints,"Baldessari, John",America,Male,5
 Contemporary Art,prints,Balthus,France,Male,1
-Contemporary Art,prints,"Bannard, Walter D.",America,Male,4
 Contemporary Art,prints,"Barrett, Lawrence",America,Male,1
 Contemporary Art,prints,"Barry, Robert",America,Male,1
-Contemporary Art,prints,"Bartlett, Jennifer",America,Female,4
-Contemporary Art,prints,"Bauermeister, Mary",Germany,Female,2
-Contemporary Art,prints,"Baumgarten, Lothar",Germany,Male,3
 Contemporary Art,prints,"Bayer, Herbert",America,Male,1
 Contemporary Art,prints,"Bayrle, Thomas",Britain,Male,1
 Contemporary Art,prints,"Beal, Jack",America,Male,1
 Contemporary Art,prints,"Bear, S. Lee",America,Male,1
-Contemporary Art,prints,"Bearden, Romare",America,Male,3
-Contemporary Art,prints,"Beckley, Jon",America,Male,2
 Contemporary Art,prints,"Beecher, William Ward",America,Male,1
 Contemporary Art,prints,"Bellmer, Hans",Germany,Male,1
 Contemporary Art,prints,"Beuys, Joseph",Germany,Male,1
-Contemporary Art,prints,"Bhavsar, Natvar P.",India,Male,4
-Contemporary Art,prints,"Birnbaum, Dara",America,Female,1
-Contemporary Art,prints,"Bissière, Roger",France,Male,2
 Contemporary Art,prints,"Blackburn, Morris A.",America,Male,1
-Contemporary Art,prints,"Blake, Peter",Britain,Male,6
-Contemporary Art,prints,"Blampied, Edmund",Britain,Male,4
 Contemporary Art,prints,"Bloom, Barbara",America,Male,1
-Contemporary Art,prints,"Blumenschein, Helen G.",America,Female,1
-Contemporary Art,prints,"Bock, John",Germany,Female,6
-Contemporary Art,prints,"Bogue-Overbay, Paula",America,Female,1
 Contemporary Art,prints,"Bontecou, Lee",America,Male,1
-Contemporary Art,prints,"Borofsky, Jonathan",America,Female,4
 Contemporary Art,prints,"Bourgeois, Louise",France,Male,1
 Contemporary Art,prints,"Bowen, Robert Goss, Jr.",America,Male,1
-Contemporary Art,prints,"Braque, Georges",France,Male,5
 Contemporary Art,prints,"Brauner, Victor",Romania,Male,1
 Contemporary Art,prints,"Breer, Robert",America,Male,1
-Contemporary Art,prints,"Browning, Colleen",America,Female,1
-Contemporary Art,prints,"Brunskill, Anna",Britain,Female,9
-Contemporary Art,prints,"Bryen, Camille",France,Female,1
-Contemporary Art,prints,"Buffet, Bernard",France,Male,2
-Contemporary Art,prints,"Bukovnik, Gary A.",America,Male,8
-Contemporary Art,prints,"Bumbeck, David",America,Male,2
-Contemporary Art,prints,"Butler, Reg",Britain,Male,12
-Contemporary Art,prints,"Calder, Alexander",America,Male,3
 Contemporary Art,prints,"Camnitzer, Luis",Uruguay,Male,1
-Contemporary Art,prints,"Campigli, Massimo",Italy,Male,3
 Contemporary Art,prints,"Cantini, Virgil",America,Male,1
-Contemporary Art,prints,"Carsman, Jon",America,Male,3
-Contemporary Art,prints,"Castagno, John",America,Male,2
-Contemporary Art,prints,"Catlett, Elizabeth",America,Female,1
-Contemporary Art,prints,"Caulfield, Patrick",Britain,Male,7
-Contemporary Art,prints,"Celice, Pierre",France,Male,11
-Contemporary Art,prints,"Celmins, Vija",America,Female,4
-Contemporary Art,prints,"Chagall, Marc",Russia,Male,14
-Contemporary Art,prints,"Chamberlain, John",America,Male,2
-Contemporary Art,prints,"Chapin, James",America,Male,2
 Contemporary Art,prints,"Charlot, Jean",France,Male,1
 Contemporary Art,prints,"Chen, Phillip",America,Male,1
-Contemporary Art,prints,"Chillida, Eduardo",Spain,Male,17
-Contemporary Art,prints,"Christie, John",Britain,Male,22
-Contemporary Art,prints,Christo,America,Male,6
-Contemporary Art,prints,Chryssa,America,Female,1
-Contemporary Art,prints,"Clemente, Francesco",Italy,Male,2
-Contemporary Art,prints,"Close, Chuck",America,Male,4
-Contemporary Art,prints,"Cohen, Bernard",Britain,Male,14
-Contemporary Art,prints,"Colescott, Warrington W.",America,Male,11
-Contemporary Art,prints,"Conner, Angela",Britain,Female,1
 Contemporary Art,prints,"Cook, August C.",America,Male,1
 Contemporary Art,prints,"Cope, Leslie",America,Male,1
-Contemporary Art,prints,Corneille,Belgium,Male,16
-Contemporary Art,prints,"Cottingham, Robert",America,Male,2
 Contemporary Art,prints,"Courtin, Pierre Louis Maurice",France,Male,1
 Contemporary Art,prints,"Coutaud, Lucien",France,Male,1
-Contemporary Art,prints,"Crile, Susan",America,Female,1
 Contemporary Art,prints,"Csoka, Stephen",America,Male,1
 Contemporary Art,prints,"Dalí, Salvador",Spain,Male,1
-Contemporary Art,prints,"Damer, Jack",America,Male,2
-Contemporary Art,prints,"D'Arcangelo, Allan",America,Male,10
-Contemporary Art,prints,"Davis, Stuart",America,Male,2
-Contemporary Art,prints,"Day, Wörden",America,Female,1
 Contemporary Art,prints,"De Maria, Walter",America,Male,1
 Contemporary Art,prints,"Deller, Jeremy",Britain,Male,1
-Contemporary Art,prints,"Denny, Robyn",Britain,Male,6
 Contemporary Art,prints,"Di Suvero, Mark",America,Male,1
-Contemporary Art,prints,"Dickson, Jane L.",America,Female,1
 Contemporary Art,prints,"Dominguez, Oscar",Spain,Male,1
 Contemporary Art,prints,"Donaldson, Antony",Britain,Male,1
 Contemporary Art,prints,"Drewes, Werner",America,Male,1
-Contemporary Art,prints,"Dubuffet, Jean",France,Male,8
 Contemporary Art,prints,"Dunham, Carroll",America,Male,1
 Contemporary Art,prints,"Durham, Jimmie",America,Male,1
 Contemporary Art,prints,"Edwards, Benjamin",America,Male,1
 Contemporary Art,prints,"Eichenberg, Fritz",America,Male,1
-Contemporary Art,prints,"Ernst, Jimmy",America,Male,2
-Contemporary Art,prints,"Ernst, Max",Germany,Male,2
 Contemporary Art,prints,"Estève, Maurice",France,Male,1
 Contemporary Art,prints,"Fahlstrom, Oyvind",Sweden,Male,1
-Contemporary Art,prints,"Falkenstein, Claire",America,Female,1
-Contemporary Art,prints,"Fedden, Mary",Britain,Female,9
 Contemporary Art,prints,"Feldmann, Hans Peter",Germany,Male,1
 Contemporary Art,prints,"Ferber, Herbert",America,Male,1
 Contemporary Art,prints,"Fiorini, Marcel",Algeria,Male,1
-Contemporary Art,prints,"Fischer, Hans E.",Switzerland,Male,2
-Contemporary Art,prints,"Fischl, Eric",America,Male,5
 Contemporary Art,prints,Fischli & Weiss,Switzerland,Male,1
-Contemporary Art,prints,"Flack, Audrey",America,Female,1
-Contemporary Art,prints,"Flavin, Dan",America,Male,11
-Contemporary Art,prints,"Frank, Mary",America,Female,1
-Contemporary Art,prints,"Frankenthaler, Helen",America,Female,2
-Contemporary Art,prints,"Frasconi, Antonio",America,Male,3
-Contemporary Art,prints,"Friedlaender, Johnny",Germany,Male,4
-Contemporary Art,prints,"Friedman, Yona",France,Male,2
-Contemporary Art,prints,"Frink, Elisabeth",Britain,Female,31
-Contemporary Art,prints,"Frost, Terry",Britain,Male,19
-Contemporary Art,prints,Fukita Fumiaki,Japan,Male,4
 Contemporary Art,prints,Fukui Ryonosuke,Japan,Male,1
-Contemporary Art,prints,Fukushima Ichirô,Japan,Male,5
 Contemporary Art,prints,"Furnival, John",Britain,Male,1
 Contemporary Art,prints,Furukawa Ryûsei,Japan,Male,1
 Contemporary Art,prints,"Gardner, Robert E.",America,Male,1
 Contemporary Art,prints,"Genovés, Juan",Spain,Male,1
 Contemporary Art,prints,"Gentry, Herbert",America,Male,1
-Contemporary Art,prints,"Genzken, Isa",Germany,Female,1
-Contemporary Art,prints,"Gerardia, Helen",America,Female,1
 Contemporary Art,prints,"Gerzso, Gunther",Mexico,Male,1
-Contemporary Art,prints,"Giacometti, Alberto",Switzerland,Male,8
-Contemporary Art,prints,"Giorgini, Aldo",Italy,Male,5
-Contemporary Art,prints,"Gober, Robert",America,Male,3
-Contemporary Art,prints,"Golub, Leon A.",America,Male,4
 Contemporary Art,prints,"Goode, Joe",America,Male,1
 Contemporary Art,prints,"Gorsline, Douglas W.",America,Male,1
-Contemporary Art,prints,"Gottlieb, Adolph",America,Male,7
 Contemporary Art,prints,"Grant, Alistair",Britain,Male,1
-Contemporary Art,prints,"Green, Alan",Britain,Male,3
-Contemporary Art,prints,"Grooms, Red",America,Male,3
 Contemporary Art,prints,"Gross, Anthony",Britain,Male,1
-Contemporary Art,prints,"Groth, Jan",Norway,Male,2
-Contemporary Art,prints,"Gruber, Aaronel deRoy",America,Female,1
-Contemporary Art,prints,Guerrilla Girls,America,Female,89
-Contemporary Art,prints,"Guitart, Francesc",Spain,Male,2
 Contemporary Art,prints,"Haacke, Hans",Germany,Male,1
-Contemporary Art,prints,"Haass, Terry",Czech Republic,Female,1
-Contemporary Art,prints,"Höller, Carsten",Belgium,Male,12
-Contemporary Art,prints,Hagiwara Hideo,Japan,Male,9
-Contemporary Art,prints,"Hagman, Jack",America,Male,3
-Contemporary Art,prints,Hamaguchi Yozo,Japan,Male,4
-Contemporary Art,prints,"Hamilton, Richard",Britain,Male,2
-Contemporary Art,prints,"Hansen, Edward",America,Male,4
-Contemporary Art,prints,"Hartung, Hans",France,Male,2
-Contemporary Art,prints,Hashimoto Okiie,Japan,Male,9
-Contemporary Art,prints,Hatsuyama Shigeru,Japan,Male,6
 Contemporary Art,prints,"Hay, Alex",America,Male,1
-Contemporary Art,prints,"Hayden, Henri",Poland,Male,8
-Contemporary Art,prints,"Hayter, Stanley W.",Britain,Male,11
-Contemporary Art,prints,"Helion, Jean",France,Male,2
 Contemporary Art,prints,"Herbin, Auguste",France,Male,1
-Contemporary Art,prints,"Herman, Josef",Poland,Male,2
-Contemporary Art,prints,"Heron, Patrick",Britain,Male,23
-Contemporary Art,prints,"Heyboer, Anton",Netherlands,Male,2
 Contemporary Art,prints,"Hill, Anthony",Britain,Male,1
-Contemporary Art,prints,"Hilton, Roger",Britain,Male,2
-Contemporary Art,prints,Hiratsuka Un'ichi,Japan,Male,15
 Contemporary Art,prints,Hirayama Rôkô,Japan,Male,1
-Contemporary Art,prints,"Hirsch, Joseph",America,Male,2
-Contemporary Art,prints,"Hirst, Damien",Britain,Male,2
 Contemporary Art,prints,"Hokanson, Hans",America,Male,1
 Contemporary Art,prints,"Hood, Thomas R.",America,Male,1
-Contemporary Art,prints,Hoshi Jôichi,Japan,Male,3
 Contemporary Art,prints,"Houédard, Dom Sylvester",Britain,Male,1
-Contemporary Art,prints,"House, Gordon",Britain,Male,51
-Contemporary Art,prints,"Hoyland, John",Britain,Male,15
-Contemporary Art,prints,"Hughes, Patrick",Britain,Male,13
 Contemporary Art,prints,"Hugnet, Georges",France,Male,1
-Contemporary Art,prints,"Humbert, Suzanne",France,Female,1
 Contemporary Art,prints,"Huxley, Paul",Britain,Male,1
-Contemporary Art,prints,Ide Gakusui,Japan,Male,2
-Contemporary Art,prints,Ikeda Shûzô,Japan,Male,5
-Contemporary Art,prints,Inagaki Akemi,Japan,Female,3
-Contemporary Art,prints,Inagaki Tomoo,Japan,Male,7
-Contemporary Art,prints,"Inman, Pauline W.",America,Female,1
-Contemporary Art,prints,Itô Shinsui,Japan|Japan,Male,1
-Contemporary Art,prints,"Iwami, Reika",Japan,Female,2
-Contemporary Art,prints,Izumi Shigeru,Japan,Male,3
-Contemporary Art,prints,"Jaray, Tess",Britain,Female,1
-Contemporary Art,prints,"Jenkins, Paul",America,Male,3
-Contemporary Art,prints,"Johns, Jasper",America,Male,2
-Contemporary Art,prints,"Johnson, Lois M.",America,Female,1
-Contemporary Art,prints,"Jones, Allen",Britain,Male,9
+Contemporary Art,prints,Itô Shinsui,Japan,Male,1
 Contemporary Art,prints,"Julian, Peter",America,Male,1
 Contemporary Art,prints,"Julien, Isaac",Britain,Male,1
-Contemporary Art,prints,"Kabakov, Ilya",Russia,Male,10
 Contemporary Art,prints,Kôsaka Ryûji,Japan,Male,1
-Contemporary Art,prints,"Kahn, Max",America,Male,2
-Contemporary Art,prints,Kanamori Yoshio,Japan,Male,3
-Contemporary Art,prints,"Karhu, Clifton",America,Male,3
-Contemporary Art,prints,Kasamatsu Shirô,Japan,Male,3
-Contemporary Art,prints,Katatani Mika,Japan,Female,1
-Contemporary Art,prints,Kawachi Meiko,Japan,Female,1
-Contemporary Art,prints,Kawada Kan,Japan,Male,2
-Contemporary Art,prints,Kawakami Sumio,Japan|Japan,Male,2
-Contemporary Art,prints,Kawanishi Hide,Japan,Male,4
-Contemporary Art,prints,Kawanishi Yûzaburô,Japan,Male,5
-Contemporary Art,prints,Kawano Kaoru,Japan,Male,4
-Contemporary Art,prints,Kawase Hasui,Japan|Japan,Male,1
-Contemporary Art,prints,"Kelly, Marie Tuiccillo",America,Female,6
+Contemporary Art,prints,Kawase Hasui,Japan,Male,1
 Contemporary Art,prints,"Kent, Norman",America,Male,1
-Contemporary Art,prints,"Kent, Rockwell",America,Male,4
 Contemporary Art,prints,"Kepets, Hugh",America,Male,1
 Contemporary Art,prints,Kidokoro Sho,Japan,Male,1
-Contemporary Art,prints,"King, Ronald",Britain,Male,41
-Contemporary Art,prints,"Kitaj, R. B.",America,Male,23
-Contemporary Art,prints,Kitaoka Fumio,Japan,Male,16
-Contemporary Art,prints,"Klevan, Carla",America,Female,1
-Contemporary Art,prints,"Knowles, Alison",America,Female,1
-Contemporary Art,prints,"Knowles, Justin",Britain,Male,4
-Contemporary Art,prints,Kobashi Yasuhide,Japan,Male,5
-Contemporary Art,prints,"Kokoschka, Oskar",Austria,Male,21
 Contemporary Art,prints,Kolos-Vary Sigismond,Hungary,Male,1
-Contemporary Art,prints,"Kopman, Benjamin",America,Male,19
 Contemporary Art,prints,"Koppelman, Chaim",America,Male,1
 Contemporary Art,prints,Kosaka Gajin,Japan,Male,1
-Contemporary Art,prints,"Krasner, Lee",America,Female,4
 Contemporary Art,prints,"Kroll, Lucien",Belgium,Male,1
-Contemporary Art,prints,"Krushenick, Nicholas",America,Male,5
-Contemporary Art,prints,"Kubota, Jean",America,Female,1
 Contemporary Art,prints,Kuroda Shigeki,Japan,Male,1
-Contemporary Art,prints,Kuroki Sadao,Japan|Japan,Male,1
-Contemporary Art,prints,"Lackovic-Croata, Ivan",Croatia,Male,99
-Contemporary Art,prints,"Léger, Fernand",France,Male,3
+Contemporary Art,prints,Kuroki Sadao,Japan,Male,1
 Contemporary Art,prints,"Lagrange, Jacques",France,Male,1
-Contemporary Art,prints,"Lam, Wifredo",Cuba,Male,2
-Contemporary Art,prints,"Landau, Jacob",America,Male,2
 Contemporary Art,prints,"Lassaw, Ibram",America,Male,1
 Contemporary Art,prints,"Lassiter, Charles K.",America,Male,1
-Contemporary Art,prints,"Laurens, Henri",France,Male,2
 Contemporary Art,prints,"Lavier, Bertrand",France,Male,1
 Contemporary Art,prints,"Lawrence, Jacob",America,Male,1
-Contemporary Art,prints,"Lazzell, Blanche",America,Female,1
-Contemporary Art,prints,"Leary, Daniel",America|America,Male,1
-Contemporary Art,prints,"Leibowitz, Leonard",America,Male,7
+Contemporary Art,prints,"Leary, Daniel",America,Male,1
 Contemporary Art,prints,"Leithauser, Mark A.",America,Male,1
 Contemporary Art,prints,"Lerner, Allan J.",undetermined,Male,1
-Contemporary Art,prints,"Leslie, Alfred",America,Male,2
 Contemporary Art,prints,"Leuppi, Leo",Switzerland,Male,1
-Contemporary Art,prints,"Levee, John",America,Male,2
 Contemporary Art,prints,"Levine, Les",Canada,Male,1
 Contemporary Art,prints,"Levine, Martin",America,Male,1
-Contemporary Art,prints,"LeWitt, Sol",America,Male,32
-Contemporary Art,prints,"Libby, William C.",America,Male,2
-Contemporary Art,prints,"Lichtenstein, Roy",America,Male,3
-Contemporary Art,prints,"Lijn, Liliane",America,Female,5
-Contemporary Art,prints,"Limbach, Russell T.",America,Male,2
 Contemporary Art,prints,"Lindner, Richard",America,Male,1
-Contemporary Art,prints,"Lipton, Seymour",America,Male,3
 Contemporary Art,prints,"Longo, Robert",America,Male,1
 Contemporary Art,prints,"Longo, Vincent",America,Male,1
 Contemporary Art,prints,"Lozowick, Louis",America,Male,1
-Contemporary Art,prints,"Lucioni, Luigi",America,Male,21
 Contemporary Art,prints,"Lurçat, Jean",France,Male,1
 Contemporary Art,prints,Mabuchi Tôru,Japan,Male,1
-Contemporary Art,prints,"MacLean, William",America,Male,7
-Contemporary Art,prints,Maeda Masao,Japan,Male,3
 Contemporary Art,prints,Maeda Toshiro,Japan,Male,1
-Contemporary Art,prints,Maekawa Senpan,Japan,Male,9
-Contemporary Art,prints,"Maier, Joann",America,Female,3
-Contemporary Art,prints,Maki Haku,Japan,Male,3
-Contemporary Art,prints,"Marca-Relli, Conrad",America,Male,14
-Contemporary Art,prints,"Marden, Brice",America,Male,12
-Contemporary Art,prints,"Escobar, Marisol",France,Female,7
-Contemporary Art,prints,"Martin, Kenneth",Britain,Male,5
 Contemporary Art,prints,Maruyama Hiroshi,Japan,Male,1
-Contemporary Art,prints,Matsubara Naoko,Japan,Female,27
 Contemporary Art,prints,Matsubara Tatsuo,Japan,Male,1
-Contemporary Art,prints,Matsumoto Akira,Japan,Male,2
 Contemporary Art,prints,"McCloy, William A.",America,Male,1
-Contemporary Art,prints,"McPherson, Craig",America,Male,6
 Contemporary Art,prints,"Mead, Roderick",America,Male,1
 Contemporary Art,prints,Mekas. Jonas,America,Male,1
 Contemporary Art,prints,"Merritt, Norman",America,Male,1
-Contemporary Art,prints,"Messager, Annette",France,Female,1
 Contemporary Art,prints,"Landy, Michael",Britain,Male,1
 Contemporary Art,prints,"Miller, Robert",America,Male,1
-Contemporary Art,prints,Minami Keiko,Japan,Female,2
-Contemporary Art,prints,"Mitchell, Joan",America,Female,6
 Contemporary Art,prints,Miyashita Tokio,Japan,Male,1
 Contemporary Art,prints,"Mock, Richard",America,Male,1
 Contemporary Art,prints,"Molinari-Flores, Louis",Ecuador,Male,1
-Contemporary Art,prints,"Monro, Nicholas",Britain,Male,16
 Contemporary Art,prints,"Moore, Henry",Britain,Male,1
-Contemporary Art,prints,"Moore, Keiko Hiratsuka",America,Female,2
-Contemporary Art,prints,Mori Yoshitoshi,Japan,Male,3
 Contemporary Art,prints,"Morris, Robert",America,Male,1
-Contemporary Art,prints,"Mortensen, Gordon",America,Male,2
-Contemporary Art,prints,"Motherwell, Robert",America,Male,10
 Contemporary Art,prints,Munakata Makka,Japan,Male,1
-Contemporary Art,prints,Munakata Shikô,Japan,Male,12
-Contemporary Art,prints,"Murray, Elizabeth",America,Female,3
 Contemporary Art,prints,"Muši?, Zoran",Slovenia,Male,1
-Contemporary Art,prints,Mutô Rokurô,Japan,Male,3
 Contemporary Art,prints,"Myers, Francis",America,Male,1
-Contemporary Art,prints,Nagai Kiyoshi,Japan,Male,3
-Contemporary Art,prints,Nagase Yoshio,Japan,Male,2
-Contemporary Art,prints,Nakao Yoshitaka,Japan,Male,3
-Contemporary Art,prints,Nakayama Tadashi,Japan,Male,4
-Contemporary Art,prints,"Nama, George",America,Male,9
-Contemporary Art,prints,"Nason, Thomas W.",America,Male,2
-Contemporary Art,prints,"Neel, Alice",America,Female,2
 Contemporary Art,prints,"Neiman, LeRoy",America,Male,1
-Contemporary Art,prints,"Nevelson, Louise",America,Female,1
 Contemporary Art,prints,"Newman, Barnett",America,Male,1
-Contemporary Art,prints,"Nutt, Jim",America,Male,5
-Contemporary Art,prints,"Oldenburg, Claes",America,Male,4
 Contemporary Art,prints,"Oliveira, Nathan",Portuguese,Male,1
-Contemporary Art,prints,Onchi Kôshirô,Japan,Male,5
-Contemporary Art,prints,Ono Tadashige,Japan,Male,5
 Contemporary Art,prints,"Opper, Jerry",America,Male,1
 Contemporary Art,prints,"Opper, John",America,Male,1
 Contemporary Art,prints,"Ortman, George E.",America,Male,1
-Contemporary Art,prints,"Ovenden, Graham",Britain,Male,16
-Contemporary Art,prints,"Owens, Laura",America,Female,2
 Contemporary Art,prints,"Page, John H.",America,Male,1
-Contemporary Art,prints,"Paik, Nam June",America,Male,2
-Contemporary Art,prints,"Pape, Lygia",Brazil,Female,1
 Contemporary Art,prints,"Parent, Claude",France,Male,1
-Contemporary Art,prints,"Park, Gloria",undetermined,Female,1
-Contemporary Art,prints,"Pasmore, Victor",Britain,Male,6
 Contemporary Art,prints,"Pearson, Henry",America,Male,1
 Contemporary Art,prints,"Perlmutter, Jack",America,Male,1
-Contemporary Art,prints,"Peyton, Elizabeth",America,Female,2
-Contemporary Art,prints,"Phillips, Peter",Britain,Male,4
-Contemporary Art,prints,"Phillips, Tom",Britain,Male,18
-Contemporary Art,prints,"Picasso, Pablo",Spain,Male,7
 Contemporary Art,prints,"Pierce, Danny",America,Male,1
 Contemporary Art,prints,"Piza, Arthur L.",Brazil,Male,1
 Contemporary Art,prints,"Podwal, Mark",America,Male,1
-Contemporary Art,prints,"Poliakoff, Serge",France,Male,2
-Contemporary Art,prints,"Polke, Sigmar",Germany,Male,2
-Contemporary Art,prints,"Porter, Liliana",Argentine,Female,2
-Contemporary Art,prints,"Quastler, Gertrude",America,Female,10
-Contemporary Art,prints,"Ramos, Mel",America,Male,4
-Contemporary Art,prints,Raqs Media Collective,India,n/a,1
-Contemporary Art,prints,"Rauschenberg, Robert",America,Male,7
-Contemporary Art,prints,"D'Haese, Reinhoud",Belgium,Male,4
-Contemporary Art,prints,"Rivers, Larry",America,Male,15
-Contemporary Art,prints,"Robbin, Anthony S.",America,Male,2
 Contemporary Art,prints,"Roche, François",France,Male,1
 Contemporary Art,prints,"Romiti, Sergio",Italy,Male,1
-Contemporary Art,prints,"Rosenquist, James",America,Male,12
-Contemporary Art,prints,"Ross, Charles",America,Male,8
-Contemporary Art,prints,"Rothenberg, Susan",America,Female,2
-Contemporary Art,prints,"Rothenstein, Michael",Britain,Male,9
-Contemporary Art,prints,"Rothschild, Eva",Ireland,Female,1
-Contemporary Art,prints,"Ryman, Robert",America,Male,2
-Contemporary Art,prints,Saitô Kiyoshi,Japan,Male,33
-Contemporary Art,prints,Sakamoto Isamu,Japan,Male,2
 Contemporary Art,prints,"Sala, Anri",Albania,Male,1
-Contemporary Art,prints,"Salcedo, Doris",Colombia,Female,1
-Contemporary Art,prints,"Salley, David J.",America,Male,2
-Contemporary Art,prints,"Sasajima, Kihei",Japan,Male,6
-Contemporary Art,prints,"Saul, Peter",America,Male,3
 Contemporary Art,prints,"Scholder, Fritz",Native America,Male,1
-Contemporary Art,prints,"Scialoja, Toti",Italy,Male,3
-Contemporary Art,prints,"Segal, George",America,Male,2
 Contemporary Art,prints,"Seguí, Antonio",Argentine,Male,1
-Contemporary Art,prints,Sekino Jun-ichirô,Japan,Male,26
 Contemporary Art,prints,"Serra, Richard",America,Male,1
 Contemporary Art,prints,"Severini, Gino",Italy,Male,1
-Contemporary Art,prints,"Shepler, Martha F.",America,Female,1
-Contemporary Art,prints,Shima Tamami,Japan,Female,2
-Contemporary Art,prints,Shimozawa Kihachirô,Japan,Male,3
-Contemporary Art,prints,Shinagawa Takumi,Japan,Male,4
-Contemporary Art,prints,Shinoda Toko,Japan,Female,1
 Contemporary Art,prints,"Shoulberg, Harry",America,Male,1
 Contemporary Art,prints,"Silverman, Melvin F.",America,Male,1
-Contemporary Art,prints,"Singier, Gustave",France,Male,3
-Contemporary Art,prints,"Skiöld, Birgit",Sweden,Female,9
-Contemporary Art,prints,"Smith, Kiki",America,Female,2
 Contemporary Art,prints,"Sonderborg, K. R.",Denmark,Male,1
 Contemporary Art,prints,"Sonnier, Keith",America,Male,1
-Contemporary Art,prints," von Hellermann, Sophie",Germany|America,Female,1
 Contemporary Art,prints,Sora Mitsuaki,Japan,Male,1
 Contemporary Art,prints,"Spero, Nancy",America,Male,1
 Contemporary Art,prints,"Springer, Ferdinand",Germany,Male,1
-Contemporary Art,prints,"Spruance, Benton M.",America,Male,71
-Contemporary Art,prints,"Stadler, Albert",America,Male,3
 Contemporary Art,prints,"Stanick, Peter",America,Male,1
 Contemporary Art,prints,"Stankiewicz, Richard P.",America,Male,1
-Contemporary Art,prints,"Steg, James L.",America,Male,2
-Contemporary Art,prints,"Steinberg, Saul",America,Male,4
 Contemporary Art,prints,"Sutherland, Graham V.",Britain,Male,1
-Contemporary Art,prints,"Sutton, Sharon E.",America,Female,1
 Contemporary Art,prints,"Sway, Albert",America,Male,1
-Contemporary Art,prints,"Tàpies , Antoni",Spain,Male,7
-Contemporary Art,prints,Tagawa Ken,Japan,Male,2
-Contemporary Art,prints,Tajima Hiroyuki,Japan,Male,7
-Contemporary Art,prints,Takagi Shirô,Japan,Male,3
-Contemporary Art,prints,Takahashi Rikio,Japan,Male,2
-Contemporary Art,prints,Takei Takeo,Japan,Male,3
 Contemporary Art,prints,"Talleur, John",America,Male,1
-Contemporary Art,prints,Tanaka Ryôhei,Japan,Male,3
-Contemporary Art,prints,"Teichman, Mary",America,Female,1
-Contemporary Art,prints,"Thomkins, André",Switzerland,Male,11
-Contemporary Art,prints,"Tilson, Joe",Britain,Male,9
-Contemporary Art,prints,"Tiravanija, Rirkrit",Thailand,Male,2
-Contemporary Art,prints,Tokuriki Tomikichirô,Japan,Male,3
-Contemporary Art,prints,"Torlakson, James D.",America,Male,3
-Contemporary Art,prints,"Trevelyan, Julian",Britain,Male,21
-Contemporary Art,prints,"Tucker, William",Britain,Male,3
-Contemporary Art,prints,"Turnbull, William",Britain,Male,16
-Contemporary Art,prints,"Tuttle, Richard",America,Male,8
 Contemporary Art,prints,"Twombly, Cy",America,Male,1
-Contemporary Art,prints,"Tyson, Ian",Britain,Male,8
-Contemporary Art,prints,"Ubac, Raoul",Belgium,Male,3
-Contemporary Art,prints,Uchima Ansei,America,Male,5
-Contemporary Art,prints,unknown,America,n/a,1
 Contemporary Art,prints,Unno Mitsuhiro,Japan,Male,1
 Contemporary Art,prints,"Uzzell, Glyn",Britain,Male,1
 Contemporary Art,prints,"Vicente, Esteban",America,Male,1
-Contemporary Art,prints,"Walker, John",Britain,Female,1
-Contemporary Art,prints,"Walker, Kara",America,Female,26
-Contemporary Art,prints,Watanabe Sadao,Japan,Male,3
+Contemporary Art,prints,"Walker, John",Britain,Male,1
 Contemporary Art,prints,"Waters, Herbert",America,Male,1
 Contemporary Art,prints,"Weber, Albert J.",America,Male,1
 Contemporary Art,prints,"Weidenaar, Reynold H.",America,Male,1
@@ -1011,26 +1020,17 @@ Contemporary Art,prints,"Wesselmann, Tom",America,Male,1
 Contemporary Art,prints,"West, Franz",Austria,Male,1
 Contemporary Art,prints,"Wheeler, Steve",America,Male,1
 Contemporary Art,prints,"White, Charles F.",America,Male,1
-Contemporary Art,prints,"Whiteley, Elizabeth",America,Female,1
 Contemporary Art,prints,"Whitman, Robert",America,Male,1
 Contemporary Art,prints,"Willats, Stephen",Britain,Male,1
 Contemporary Art,prints,"Williams, Emmett",America,Male,1
-Contemporary Art,prints,"Wilmarth, Christopher",America,Male,8
-Contemporary Art,prints,"Wool, Christopher",America,Male,22
-Contemporary Art,prints,"Wotruba, Fritz",Austria,Male,14
-Contemporary Art,prints,"Wujcik, Theo",America,Male,2
-Contemporary Art,prints,Yamaguchi Gen,Japan,Male,5
-Contemporary Art,prints,Yamaguchi Susumu,Japan,Male,6
 Contemporary Art,prints,Yamamoto Kanae,Japan,Male,1
 Contemporary Art,prints,Yang Fudong,China,Male,1
-Contemporary Art,prints,Yoshida Chizuko,Japan,Female,2
-Contemporary Art,prints,Yoshida Fujio,Japan,Female,2
-Contemporary Art,prints,Yoshida Hodaka,Japan,Male,6
-Contemporary Art,prints,Yoshida Tôshi,Japan,Male,8
 Contemporary Art,prints,Yuki Rei,Japan,Male,1
 Contemporary Art,prints,"Zachrisson, Julio",Panama,Male,1
-Contemporary Art,prints,"Zeid, Fahrelnissa",Turkey,Female,2
-Contemporary Art,prints,"Ziemann, Richard C.",America,Female,9
 Contemporary Art,prints,"Zittel, Andrea",America,Male,1
 Contemporary Art,prints,"Zox, Larry",America,Male,1
 Contemporary Art,prints,"Zunigo, Francisco",undetermined,Male,1
+Contemporary Art,prints,Raqs Media Collective,India,n/a,1
+Contemporary Art,prints,unknown,America,n/a,1
+Contemporary Art,drawings and watercolors,unknown,Japan,unknown,1
+Contemporary Art,paintings,unknown,France,unknown,1
